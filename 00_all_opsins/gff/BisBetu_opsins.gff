@@ -1,0 +1,276 @@
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+FR989865.1	exonerate:protein2genome:local	gene	8015312	8018886	1917	+	.	gene_id 0 ; sequence BisBetu|LWS1 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+FR989865.1	exonerate:protein2genome:local	cds	8015312	8015454	.	+	.	
+FR989865.1	exonerate:protein2genome:local	exon	8015312	8015454	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989865.1	exonerate:protein2genome:local	splice5	8015455	8015456	.	+	.	intron_id 1 ; splice_site "GT"
+FR989865.1	exonerate:protein2genome:local	intron	8015455	8015848	.	+	.	intron_id 1
+FR989865.1	exonerate:protein2genome:local	splice3	8015847	8015848	.	+	.	intron_id 0 ; splice_site "AG"
+FR989865.1	exonerate:protein2genome:local	cds	8015849	8015969	.	+	.	
+FR989865.1	exonerate:protein2genome:local	exon	8015849	8015969	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989865.1	exonerate:protein2genome:local	splice5	8015970	8015971	.	+	.	intron_id 2 ; splice_site "GT"
+FR989865.1	exonerate:protein2genome:local	intron	8015970	8016648	.	+	.	intron_id 2
+FR989865.1	exonerate:protein2genome:local	splice3	8016647	8016648	.	+	.	intron_id 1 ; splice_site "AG"
+FR989865.1	exonerate:protein2genome:local	cds	8016649	8016766	.	+	.	
+FR989865.1	exonerate:protein2genome:local	exon	8016649	8016766	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989865.1	exonerate:protein2genome:local	splice5	8016767	8016768	.	+	.	intron_id 3 ; splice_site "GT"
+FR989865.1	exonerate:protein2genome:local	intron	8016767	8016848	.	+	.	intron_id 3
+FR989865.1	exonerate:protein2genome:local	splice3	8016847	8016848	.	+	.	intron_id 2 ; splice_site "AG"
+FR989865.1	exonerate:protein2genome:local	cds	8016849	8017062	.	+	.	
+FR989865.1	exonerate:protein2genome:local	exon	8016849	8017062	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989865.1	exonerate:protein2genome:local	splice5	8017063	8017064	.	+	.	intron_id 4 ; splice_site "GT"
+FR989865.1	exonerate:protein2genome:local	intron	8017063	8017470	.	+	.	intron_id 4
+FR989865.1	exonerate:protein2genome:local	splice3	8017469	8017470	.	+	.	intron_id 3 ; splice_site "AG"
+FR989865.1	exonerate:protein2genome:local	cds	8017471	8017618	.	+	.	
+FR989865.1	exonerate:protein2genome:local	exon	8017471	8017618	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989865.1	exonerate:protein2genome:local	splice5	8017619	8017620	.	+	.	intron_id 5 ; splice_site "GT"
+FR989865.1	exonerate:protein2genome:local	intron	8017619	8017699	.	+	.	intron_id 5
+FR989865.1	exonerate:protein2genome:local	splice3	8017698	8017699	.	+	.	intron_id 4 ; splice_site "aG"
+FR989865.1	exonerate:protein2genome:local	cds	8017700	8017810	.	+	.	
+FR989865.1	exonerate:protein2genome:local	exon	8017700	8017810	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989865.1	exonerate:protein2genome:local	splice5	8017811	8017812	.	+	.	intron_id 6 ; splice_site "GT"
+FR989865.1	exonerate:protein2genome:local	intron	8017811	8018073	.	+	.	intron_id 6
+FR989865.1	exonerate:protein2genome:local	splice3	8018072	8018073	.	+	.	intron_id 5 ; splice_site "ag"
+FR989865.1	exonerate:protein2genome:local	cds	8018074	8018240	.	+	.	
+FR989865.1	exonerate:protein2genome:local	exon	8018074	8018240	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989865.1	exonerate:protein2genome:local	splice5	8018241	8018242	.	+	.	intron_id 7 ; splice_site "GT"
+FR989865.1	exonerate:protein2genome:local	intron	8018241	8018759	.	+	.	intron_id 7
+FR989865.1	exonerate:protein2genome:local	splice3	8018758	8018759	.	+	.	intron_id 6 ; splice_site "AG"
+FR989865.1	exonerate:protein2genome:local	cds	8018760	8018886	.	+	.	
+FR989865.1	exonerate:protein2genome:local	exon	8018760	8018886	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989865.1	exonerate:protein2genome:local	similarity	8015312	8018886	1917	+	.	alignment_id 0 ; Query BisBetu|LWS1 ; Align 8015312 1 141 ; Align 8015850 49 120 ; Align 8016649 89 117 ; Align 8016851 129 210 ; Align 8017472 200 147 ; Align 8017700 249 111 ; Align 8018074 286 165 ; Align 8018761 342 126
+# --- END OF GFF DUMP ---
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+FR989873.1	exonerate:protein2genome:local	gene	8262457	8269463	1812	-	.	gene_id 0 ; sequence BisBetu|UV2 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+FR989873.1	exonerate:protein2genome:local	cds	8269411	8269463	.	-	.	
+FR989873.1	exonerate:protein2genome:local	exon	8269411	8269463	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989873.1	exonerate:protein2genome:local	splice5	8269409	8269410	.	-	.	intron_id 1 ; splice_site "GT"
+FR989873.1	exonerate:protein2genome:local	intron	8268731	8269410	.	-	.	intron_id 1
+FR989873.1	exonerate:protein2genome:local	splice3	8268731	8268732	.	-	.	intron_id 0 ; splice_site "AG"
+FR989873.1	exonerate:protein2genome:local	cds	8268548	8268730	.	-	.	
+FR989873.1	exonerate:protein2genome:local	exon	8268548	8268730	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989873.1	exonerate:protein2genome:local	splice5	8268546	8268547	.	-	.	intron_id 2 ; splice_site "GT"
+FR989873.1	exonerate:protein2genome:local	intron	8268235	8268547	.	-	.	intron_id 2
+FR989873.1	exonerate:protein2genome:local	splice3	8268235	8268236	.	-	.	intron_id 1 ; splice_site "AG"
+FR989873.1	exonerate:protein2genome:local	cds	8268025	8268234	.	-	.	
+FR989873.1	exonerate:protein2genome:local	exon	8268025	8268234	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989873.1	exonerate:protein2genome:local	splice5	8268023	8268024	.	-	.	intron_id 3 ; splice_site "GT"
+FR989873.1	exonerate:protein2genome:local	intron	8266559	8268024	.	-	.	intron_id 3
+FR989873.1	exonerate:protein2genome:local	splice3	8266559	8266560	.	-	.	intron_id 2 ; splice_site "AG"
+FR989873.1	exonerate:protein2genome:local	cds	8266422	8266558	.	-	.	
+FR989873.1	exonerate:protein2genome:local	exon	8266422	8266558	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989873.1	exonerate:protein2genome:local	splice5	8266420	8266421	.	-	.	intron_id 4 ; splice_site "GT"
+FR989873.1	exonerate:protein2genome:local	intron	8265541	8266421	.	-	.	intron_id 4
+FR989873.1	exonerate:protein2genome:local	splice3	8265541	8265542	.	-	.	intron_id 3 ; splice_site "ag"
+FR989873.1	exonerate:protein2genome:local	cds	8265375	8265540	.	-	.	
+FR989873.1	exonerate:protein2genome:local	exon	8265375	8265540	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989873.1	exonerate:protein2genome:local	splice5	8265373	8265374	.	-	.	intron_id 5 ; splice_site "GT"
+FR989873.1	exonerate:protein2genome:local	intron	8264517	8265374	.	-	.	intron_id 5
+FR989873.1	exonerate:protein2genome:local	splice3	8264517	8264518	.	-	.	intron_id 4 ; splice_site "ag"
+FR989873.1	exonerate:protein2genome:local	cds	8264330	8264516	.	-	.	
+FR989873.1	exonerate:protein2genome:local	exon	8264330	8264516	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989873.1	exonerate:protein2genome:local	splice5	8264328	8264329	.	-	.	intron_id 6 ; splice_site "gt"
+FR989873.1	exonerate:protein2genome:local	intron	8262825	8264329	.	-	.	intron_id 6
+FR989873.1	exonerate:protein2genome:local	splice3	8262825	8262826	.	-	.	intron_id 5 ; splice_site "ag"
+FR989873.1	exonerate:protein2genome:local	cds	8262742	8262824	.	-	.	
+FR989873.1	exonerate:protein2genome:local	exon	8262742	8262824	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989873.1	exonerate:protein2genome:local	splice5	8262740	8262741	.	-	.	intron_id 7 ; splice_site "GT"
+FR989873.1	exonerate:protein2genome:local	intron	8262554	8262741	.	-	.	intron_id 7
+FR989873.1	exonerate:protein2genome:local	splice3	8262554	8262555	.	-	.	intron_id 6 ; splice_site "AG"
+FR989873.1	exonerate:protein2genome:local	cds	8262457	8262553	.	-	.	
+FR989873.1	exonerate:protein2genome:local	exon	8262457	8262553	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989873.1	exonerate:protein2genome:local	similarity	8262457	8269463	1812	-	.	alignment_id 0 ; Query BisBetu|UV2 ; Align 8269464 1 51 ; Align 8268730 19 180 ; Align 8268234 80 207 ; Align 8266558 150 135 ; Align 8265539 196 162 ; Align 8264516 251 186 ; Align 8262825 313 81 ; Align 8262553 341 96
+# --- END OF GFF DUMP ---
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+FR989870.1	exonerate:protein2genome:local	gene	10509126	10527540	2067	+	.	gene_id 0 ; sequence BisBetu|Rh72 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+FR989870.1	exonerate:protein2genome:local	cds	10509126	10509190	.	+	.	
+FR989870.1	exonerate:protein2genome:local	exon	10509126	10509190	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989870.1	exonerate:protein2genome:local	splice5	10509191	10509192	.	+	.	intron_id 1 ; splice_site "GT"
+FR989870.1	exonerate:protein2genome:local	intron	10509191	10525955	.	+	.	intron_id 1
+FR989870.1	exonerate:protein2genome:local	splice3	10525954	10525955	.	+	.	intron_id 0 ; splice_site "ag"
+FR989870.1	exonerate:protein2genome:local	cds	10525956	10526086	.	+	.	
+FR989870.1	exonerate:protein2genome:local	exon	10525956	10526086	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989870.1	exonerate:protein2genome:local	splice5	10526087	10526088	.	+	.	intron_id 2 ; splice_site "GT"
+FR989870.1	exonerate:protein2genome:local	intron	10526087	10526533	.	+	.	intron_id 2
+FR989870.1	exonerate:protein2genome:local	splice3	10526532	10526533	.	+	.	intron_id 1 ; splice_site "ag"
+FR989870.1	exonerate:protein2genome:local	cds	10526534	10527540	.	+	.	
+FR989870.1	exonerate:protein2genome:local	exon	10526534	10527540	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989870.1	exonerate:protein2genome:local	similarity	10509126	10527540	2067	+	.	alignment_id 0 ; Query BisBetu|Rh72 ; Align 10509126 1 63 ; Align 10525957 23 129 ; Align 10526536 67 1005
+# --- END OF GFF DUMP ---
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+FR989874.1	exonerate:protein2genome:local	gene	2932608	2944401	1078	+	.	gene_id 0 ; sequence BisBetu|Copsin1 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+FR989874.1	exonerate:protein2genome:local	cds	2932608	2932828	.	+	.	
+FR989874.1	exonerate:protein2genome:local	exon	2932608	2932828	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989874.1	exonerate:protein2genome:local	splice5	2932829	2932830	.	+	.	intron_id 1 ; splice_site "GT"
+FR989874.1	exonerate:protein2genome:local	intron	2932829	2938359	.	+	.	intron_id 1
+FR989874.1	exonerate:protein2genome:local	splice3	2938358	2938359	.	+	.	intron_id 0 ; splice_site "AG"
+FR989874.1	exonerate:protein2genome:local	cds	2938360	2938492	.	+	.	
+FR989874.1	exonerate:protein2genome:local	exon	2938360	2938492	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989874.1	exonerate:protein2genome:local	splice5	2938493	2938494	.	+	.	intron_id 2 ; splice_site "GT"
+FR989874.1	exonerate:protein2genome:local	intron	2938493	2941228	.	+	.	intron_id 2
+FR989874.1	exonerate:protein2genome:local	splice3	2941227	2941228	.	+	.	intron_id 1 ; splice_site "aG"
+FR989874.1	exonerate:protein2genome:local	cds	2941229	2941369	.	+	.	
+FR989874.1	exonerate:protein2genome:local	exon	2941229	2941369	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989874.1	exonerate:protein2genome:local	splice5	2941370	2941371	.	+	.	intron_id 3 ; splice_site "gt"
+FR989874.1	exonerate:protein2genome:local	intron	2941370	2943764	.	+	.	intron_id 3
+FR989874.1	exonerate:protein2genome:local	splice3	2943763	2943764	.	+	.	intron_id 2 ; splice_site "ag"
+FR989874.1	exonerate:protein2genome:local	cds	2943765	2943854	.	+	.	
+FR989874.1	exonerate:protein2genome:local	exon	2943765	2943854	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989874.1	exonerate:protein2genome:local	splice5	2943855	2943856	.	+	.	intron_id 4 ; splice_site "GT"
+FR989874.1	exonerate:protein2genome:local	intron	2943855	2944320	.	+	.	intron_id 4
+FR989874.1	exonerate:protein2genome:local	splice3	2944319	2944320	.	+	.	intron_id 3 ; splice_site "AG"
+FR989874.1	exonerate:protein2genome:local	cds	2944321	2944401	.	+	.	
+FR989874.1	exonerate:protein2genome:local	exon	2944321	2944401	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989874.1	exonerate:protein2genome:local	similarity	2932608	2944401	1078	+	.	alignment_id 0 ; Query BisBetu|Copsin1 ; Align 2932608 1 219 ; Align 2938361 75 132 ; Align 2941229 119 141 ; Align 2943765 166 90 ; Align 2944321 196 81
+# --- END OF GFF DUMP ---
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+FR989888.1	exonerate:protein2genome:local	gene	1140479	1144275	1935	+	.	gene_id 0 ; sequence BisBetu|LWS2 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+FR989888.1	exonerate:protein2genome:local	cds	1140479	1140612	.	+	.	
+FR989888.1	exonerate:protein2genome:local	exon	1140479	1140612	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989888.1	exonerate:protein2genome:local	splice5	1140613	1140614	.	+	.	intron_id 1 ; splice_site "GT"
+FR989888.1	exonerate:protein2genome:local	intron	1140613	1141058	.	+	.	intron_id 1
+FR989888.1	exonerate:protein2genome:local	splice3	1141057	1141058	.	+	.	intron_id 0 ; splice_site "AG"
+FR989888.1	exonerate:protein2genome:local	cds	1141059	1141179	.	+	.	
+FR989888.1	exonerate:protein2genome:local	exon	1141059	1141179	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989888.1	exonerate:protein2genome:local	splice5	1141180	1141181	.	+	.	intron_id 2 ; splice_site "GT"
+FR989888.1	exonerate:protein2genome:local	intron	1141180	1141503	.	+	.	intron_id 2
+FR989888.1	exonerate:protein2genome:local	splice3	1141502	1141503	.	+	.	intron_id 1 ; splice_site "AG"
+FR989888.1	exonerate:protein2genome:local	cds	1141504	1141621	.	+	.	
+FR989888.1	exonerate:protein2genome:local	exon	1141504	1141621	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989888.1	exonerate:protein2genome:local	splice5	1141622	1141623	.	+	.	intron_id 3 ; splice_site "GT"
+FR989888.1	exonerate:protein2genome:local	intron	1141622	1142300	.	+	.	intron_id 3
+FR989888.1	exonerate:protein2genome:local	splice3	1142299	1142300	.	+	.	intron_id 2 ; splice_site "AG"
+FR989888.1	exonerate:protein2genome:local	cds	1142301	1142514	.	+	.	
+FR989888.1	exonerate:protein2genome:local	exon	1142301	1142514	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989888.1	exonerate:protein2genome:local	splice5	1142515	1142516	.	+	.	intron_id 4 ; splice_site "GT"
+FR989888.1	exonerate:protein2genome:local	intron	1142515	1142947	.	+	.	intron_id 4
+FR989888.1	exonerate:protein2genome:local	splice3	1142946	1142947	.	+	.	intron_id 3 ; splice_site "ag"
+FR989888.1	exonerate:protein2genome:local	cds	1142948	1143095	.	+	.	
+FR989888.1	exonerate:protein2genome:local	exon	1142948	1143095	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989888.1	exonerate:protein2genome:local	splice5	1143096	1143097	.	+	.	intron_id 5 ; splice_site "GT"
+FR989888.1	exonerate:protein2genome:local	intron	1143096	1143353	.	+	.	intron_id 5
+FR989888.1	exonerate:protein2genome:local	splice3	1143352	1143353	.	+	.	intron_id 4 ; splice_site "AG"
+FR989888.1	exonerate:protein2genome:local	cds	1143354	1143464	.	+	.	
+FR989888.1	exonerate:protein2genome:local	exon	1143354	1143464	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989888.1	exonerate:protein2genome:local	splice5	1143465	1143466	.	+	.	intron_id 6 ; splice_site "GT"
+FR989888.1	exonerate:protein2genome:local	intron	1143465	1143663	.	+	.	intron_id 6
+FR989888.1	exonerate:protein2genome:local	splice3	1143662	1143663	.	+	.	intron_id 5 ; splice_site "AG"
+FR989888.1	exonerate:protein2genome:local	cds	1143664	1143830	.	+	.	
+FR989888.1	exonerate:protein2genome:local	exon	1143664	1143830	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989888.1	exonerate:protein2genome:local	splice5	1143831	1143832	.	+	.	intron_id 7 ; splice_site "GT"
+FR989888.1	exonerate:protein2genome:local	intron	1143831	1144151	.	+	.	intron_id 7
+FR989888.1	exonerate:protein2genome:local	splice3	1144150	1144151	.	+	.	intron_id 6 ; splice_site "AG"
+FR989888.1	exonerate:protein2genome:local	cds	1144152	1144275	.	+	.	
+FR989888.1	exonerate:protein2genome:local	exon	1144152	1144275	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989888.1	exonerate:protein2genome:local	similarity	1140479	1144275	1935	+	.	alignment_id 0 ; Query BisBetu|LWS2 ; Align 1140479 1 132 ; Align 1141060 46 120 ; Align 1141504 86 117 ; Align 1142303 126 210 ; Align 1142949 197 147 ; Align 1143354 246 111 ; Align 1143664 283 165 ; Align 1144153 339 123
+# --- END OF GFF DUMP ---
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+FR989873.1	exonerate:protein2genome:local	gene	3400834	3417221	1897	-	.	gene_id 0 ; sequence BisBetu|Blue1 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+FR989873.1	exonerate:protein2genome:local	cds	3417169	3417221	.	-	.	
+FR989873.1	exonerate:protein2genome:local	exon	3417169	3417221	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989873.1	exonerate:protein2genome:local	splice5	3417167	3417168	.	-	.	intron_id 1 ; splice_site "gt"
+FR989873.1	exonerate:protein2genome:local	intron	3416555	3417168	.	-	.	intron_id 1
+FR989873.1	exonerate:protein2genome:local	splice3	3416555	3416556	.	-	.	intron_id 0 ; splice_site "AG"
+FR989873.1	exonerate:protein2genome:local	cds	3416363	3416554	.	-	.	
+FR989873.1	exonerate:protein2genome:local	exon	3416363	3416554	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989873.1	exonerate:protein2genome:local	splice5	3416361	3416362	.	-	.	intron_id 2 ; splice_site "Gt"
+FR989873.1	exonerate:protein2genome:local	intron	3414069	3416362	.	-	.	intron_id 2
+FR989873.1	exonerate:protein2genome:local	splice3	3414069	3414070	.	-	.	intron_id 1 ; splice_site "AG"
+FR989873.1	exonerate:protein2genome:local	cds	3413853	3414068	.	-	.	
+FR989873.1	exonerate:protein2genome:local	exon	3413853	3414068	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989873.1	exonerate:protein2genome:local	splice5	3413851	3413852	.	-	.	intron_id 3 ; splice_site "GT"
+FR989873.1	exonerate:protein2genome:local	intron	3412753	3413852	.	-	.	intron_id 3
+FR989873.1	exonerate:protein2genome:local	splice3	3412753	3412754	.	-	.	intron_id 2 ; splice_site "AG"
+FR989873.1	exonerate:protein2genome:local	cds	3412622	3412752	.	-	.	
+FR989873.1	exonerate:protein2genome:local	exon	3412622	3412752	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989873.1	exonerate:protein2genome:local	splice5	3412620	3412621	.	-	.	intron_id 4 ; splice_site "gt"
+FR989873.1	exonerate:protein2genome:local	intron	3409956	3412621	.	-	.	intron_id 4
+FR989873.1	exonerate:protein2genome:local	splice3	3409956	3409957	.	-	.	intron_id 3 ; splice_site "ag"
+FR989873.1	exonerate:protein2genome:local	cds	3409816	3409955	.	-	.	
+FR989873.1	exonerate:protein2genome:local	exon	3409816	3409955	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989873.1	exonerate:protein2genome:local	splice5	3409814	3409815	.	-	.	intron_id 5 ; splice_site "GT"
+FR989873.1	exonerate:protein2genome:local	intron	3404257	3409815	.	-	.	intron_id 5
+FR989873.1	exonerate:protein2genome:local	splice3	3404257	3404258	.	-	.	intron_id 4 ; splice_site "AG"
+FR989873.1	exonerate:protein2genome:local	cds	3404063	3404256	.	-	.	
+FR989873.1	exonerate:protein2genome:local	exon	3404063	3404256	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989873.1	exonerate:protein2genome:local	splice5	3404061	3404062	.	-	.	intron_id 6 ; splice_site "GT"
+FR989873.1	exonerate:protein2genome:local	intron	3401479	3404062	.	-	.	intron_id 6
+FR989873.1	exonerate:protein2genome:local	splice3	3401479	3401480	.	-	.	intron_id 5 ; splice_site "aG"
+FR989873.1	exonerate:protein2genome:local	cds	3401377	3401478	.	-	.	
+FR989873.1	exonerate:protein2genome:local	exon	3401377	3401478	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989873.1	exonerate:protein2genome:local	splice5	3401375	3401376	.	-	.	intron_id 7 ; splice_site "GT"
+FR989873.1	exonerate:protein2genome:local	intron	3400949	3401376	.	-	.	intron_id 7
+FR989873.1	exonerate:protein2genome:local	splice3	3400949	3400950	.	-	.	intron_id 6 ; splice_site "AG"
+FR989873.1	exonerate:protein2genome:local	cds	3400834	3400948	.	-	.	
+FR989873.1	exonerate:protein2genome:local	exon	3400834	3400948	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+FR989873.1	exonerate:protein2genome:local	similarity	3400834	3417221	1897	-	.	alignment_id 0 ; Query BisBetu|Blue1 ; Align 3417222 1 51 ; Align 3416554 19 189 ; Align 3414068 83 213 ; Align 3412752 155 129 ; Align 3409954 199 138 ; Align 3404257 245 192 ; Align 3401478 310 99 ; Align 3400948 344 114
+# --- END OF GFF DUMP ---

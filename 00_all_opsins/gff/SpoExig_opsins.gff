@@ -1,0 +1,246 @@
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+CADEPN010000025.1	exonerate:protein2genome:local	gene	3205214	3206356	2013	-	.	gene_id 0 ; sequence SpoExig|LWS1 ; gene_orientation . ; identity 100.00 ; similarity 100.00
+CADEPN010000025.1	exonerate:protein2genome:local	cds	3205214	3206356	.	-	.	
+CADEPN010000025.1	exonerate:protein2genome:local	exon	3205214	3206356	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000025.1	exonerate:protein2genome:local	similarity	3205214	3206356	2013	-	.	alignment_id 0 ; Query SpoExig|LWS1 ; Align 3206357 1 1143
+# --- END OF GFF DUMP ---
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+CADEPN010000030.1	exonerate:protein2genome:local	gene	9258970	9277597	2033	+	.	gene_id 0 ; sequence SpoExig|Rh71 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+CADEPN010000030.1	exonerate:protein2genome:local	cds	9258970	9259034	.	+	.	
+CADEPN010000030.1	exonerate:protein2genome:local	exon	9258970	9259034	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000030.1	exonerate:protein2genome:local	splice5	9259035	9259036	.	+	.	intron_id 1 ; splice_site "GT"
+CADEPN010000030.1	exonerate:protein2genome:local	intron	9259035	9275800	.	+	.	intron_id 1
+CADEPN010000030.1	exonerate:protein2genome:local	splice3	9275799	9275800	.	+	.	intron_id 0 ; splice_site "AG"
+CADEPN010000030.1	exonerate:protein2genome:local	cds	9275801	9275931	.	+	.	
+CADEPN010000030.1	exonerate:protein2genome:local	exon	9275801	9275931	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000030.1	exonerate:protein2genome:local	splice5	9275932	9275933	.	+	.	intron_id 2 ; splice_site "Gt"
+CADEPN010000030.1	exonerate:protein2genome:local	intron	9275932	9276605	.	+	.	intron_id 2
+CADEPN010000030.1	exonerate:protein2genome:local	splice3	9276604	9276605	.	+	.	intron_id 1 ; splice_site "ag"
+CADEPN010000030.1	exonerate:protein2genome:local	cds	9276606	9277597	.	+	.	
+CADEPN010000030.1	exonerate:protein2genome:local	exon	9276606	9277597	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000030.1	exonerate:protein2genome:local	similarity	9258970	9277597	2033	+	.	alignment_id 0 ; Query SpoExig|Rh71 ; Align 9258970 1 63 ; Align 9275802 23 129 ; Align 9276608 67 990
+# --- END OF GFF DUMP ---
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+CADEPN010000023.1	exonerate:protein2genome:local	gene	8495280	8497123	1915	+	.	gene_id 0 ; sequence SpoExig|LWS2 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+CADEPN010000023.1	exonerate:protein2genome:local	cds	8495280	8495425	.	+	.	
+CADEPN010000023.1	exonerate:protein2genome:local	exon	8495280	8495425	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000023.1	exonerate:protein2genome:local	splice5	8495426	8495427	.	+	.	intron_id 1 ; splice_site "GT"
+CADEPN010000023.1	exonerate:protein2genome:local	intron	8495426	8495574	.	+	.	intron_id 1
+CADEPN010000023.1	exonerate:protein2genome:local	splice3	8495573	8495574	.	+	.	intron_id 0 ; splice_site "ag"
+CADEPN010000023.1	exonerate:protein2genome:local	cds	8495575	8495695	.	+	.	
+CADEPN010000023.1	exonerate:protein2genome:local	exon	8495575	8495695	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000023.1	exonerate:protein2genome:local	splice5	8495696	8495697	.	+	.	intron_id 2 ; splice_site "GT"
+CADEPN010000023.1	exonerate:protein2genome:local	intron	8495696	8495783	.	+	.	intron_id 2
+CADEPN010000023.1	exonerate:protein2genome:local	splice3	8495782	8495783	.	+	.	intron_id 1 ; splice_site "ag"
+CADEPN010000023.1	exonerate:protein2genome:local	cds	8495784	8495901	.	+	.	
+CADEPN010000023.1	exonerate:protein2genome:local	exon	8495784	8495901	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000023.1	exonerate:protein2genome:local	splice5	8495902	8495903	.	+	.	intron_id 3 ; splice_site "GT"
+CADEPN010000023.1	exonerate:protein2genome:local	intron	8495902	8495997	.	+	.	intron_id 3
+CADEPN010000023.1	exonerate:protein2genome:local	splice3	8495996	8495997	.	+	.	intron_id 2 ; splice_site "AG"
+CADEPN010000023.1	exonerate:protein2genome:local	cds	8495998	8496211	.	+	.	
+CADEPN010000023.1	exonerate:protein2genome:local	exon	8495998	8496211	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000023.1	exonerate:protein2genome:local	splice5	8496212	8496213	.	+	.	intron_id 4 ; splice_site "GT"
+CADEPN010000023.1	exonerate:protein2genome:local	intron	8496212	8496300	.	+	.	intron_id 4
+CADEPN010000023.1	exonerate:protein2genome:local	splice3	8496299	8496300	.	+	.	intron_id 3 ; splice_site "AG"
+CADEPN010000023.1	exonerate:protein2genome:local	cds	8496301	8496448	.	+	.	
+CADEPN010000023.1	exonerate:protein2genome:local	exon	8496301	8496448	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000023.1	exonerate:protein2genome:local	splice5	8496449	8496450	.	+	.	intron_id 5 ; splice_site "GT"
+CADEPN010000023.1	exonerate:protein2genome:local	intron	8496449	8496539	.	+	.	intron_id 5
+CADEPN010000023.1	exonerate:protein2genome:local	splice3	8496538	8496539	.	+	.	intron_id 4 ; splice_site "ag"
+CADEPN010000023.1	exonerate:protein2genome:local	cds	8496540	8496650	.	+	.	
+CADEPN010000023.1	exonerate:protein2genome:local	exon	8496540	8496650	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000023.1	exonerate:protein2genome:local	splice5	8496651	8496652	.	+	.	intron_id 6 ; splice_site "GT"
+CADEPN010000023.1	exonerate:protein2genome:local	intron	8496651	8496732	.	+	.	intron_id 6
+CADEPN010000023.1	exonerate:protein2genome:local	splice3	8496731	8496732	.	+	.	intron_id 5 ; splice_site "AG"
+CADEPN010000023.1	exonerate:protein2genome:local	cds	8496733	8496899	.	+	.	
+CADEPN010000023.1	exonerate:protein2genome:local	exon	8496733	8496899	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000023.1	exonerate:protein2genome:local	splice5	8496900	8496901	.	+	.	intron_id 7 ; splice_site "GT"
+CADEPN010000023.1	exonerate:protein2genome:local	intron	8496900	8496999	.	+	.	intron_id 7
+CADEPN010000023.1	exonerate:protein2genome:local	splice3	8496998	8496999	.	+	.	intron_id 6 ; splice_site "AG"
+CADEPN010000023.1	exonerate:protein2genome:local	cds	8497000	8497123	.	+	.	
+CADEPN010000023.1	exonerate:protein2genome:local	exon	8497000	8497123	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000023.1	exonerate:protein2genome:local	similarity	8495280	8497123	1915	+	.	alignment_id 0 ; Query SpoExig|LWS2 ; Align 8495280 1 144 ; Align 8495576 50 120 ; Align 8495784 90 117 ; Align 8496000 130 210 ; Align 8496302 201 147 ; Align 8496540 250 111 ; Align 8496733 287 165 ; Align 8497001 343 123
+# --- END OF GFF DUMP ---
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+CADEPN010000006.1	exonerate:protein2genome:local	gene	11636664	11676700	1336	+	.	gene_id 0 ; sequence SpoExig|Copsin1 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+CADEPN010000006.1	exonerate:protein2genome:local	cds	11636664	11636826	.	+	.	
+CADEPN010000006.1	exonerate:protein2genome:local	exon	11636664	11636826	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000006.1	exonerate:protein2genome:local	splice5	11636827	11636828	.	+	.	intron_id 1 ; splice_site "gt"
+CADEPN010000006.1	exonerate:protein2genome:local	intron	11636827	11658188	.	+	.	intron_id 1
+CADEPN010000006.1	exonerate:protein2genome:local	splice3	11658187	11658188	.	+	.	intron_id 0 ; splice_site "AG"
+CADEPN010000006.1	exonerate:protein2genome:local	cds	11658189	11658384	.	+	.	
+CADEPN010000006.1	exonerate:protein2genome:local	exon	11658189	11658384	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000006.1	exonerate:protein2genome:local	splice5	11658385	11658386	.	+	.	intron_id 2 ; splice_site "GT"
+CADEPN010000006.1	exonerate:protein2genome:local	intron	11658385	11663077	.	+	.	intron_id 2
+CADEPN010000006.1	exonerate:protein2genome:local	splice3	11663076	11663077	.	+	.	intron_id 1 ; splice_site "ag"
+CADEPN010000006.1	exonerate:protein2genome:local	cds	11663078	11663210	.	+	.	
+CADEPN010000006.1	exonerate:protein2genome:local	exon	11663078	11663210	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000006.1	exonerate:protein2genome:local	splice5	11663211	11663212	.	+	.	intron_id 3 ; splice_site "GT"
+CADEPN010000006.1	exonerate:protein2genome:local	intron	11663211	11667978	.	+	.	intron_id 3
+CADEPN010000006.1	exonerate:protein2genome:local	splice3	11667977	11667978	.	+	.	intron_id 2 ; splice_site "aG"
+CADEPN010000006.1	exonerate:protein2genome:local	cds	11667979	11668119	.	+	.	
+CADEPN010000006.1	exonerate:protein2genome:local	exon	11667979	11668119	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000006.1	exonerate:protein2genome:local	splice5	11668120	11668121	.	+	.	intron_id 4 ; splice_site "GT"
+CADEPN010000006.1	exonerate:protein2genome:local	intron	11668120	11676452	.	+	.	intron_id 4
+CADEPN010000006.1	exonerate:protein2genome:local	splice3	11676451	11676452	.	+	.	intron_id 3 ; splice_site "AG"
+CADEPN010000006.1	exonerate:protein2genome:local	cds	11676453	11676542	.	+	.	
+CADEPN010000006.1	exonerate:protein2genome:local	exon	11676453	11676542	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000006.1	exonerate:protein2genome:local	splice5	11676543	11676544	.	+	.	intron_id 5 ; splice_site "GT"
+CADEPN010000006.1	exonerate:protein2genome:local	intron	11676543	11676619	.	+	.	intron_id 5
+CADEPN010000006.1	exonerate:protein2genome:local	splice3	11676618	11676619	.	+	.	intron_id 4 ; splice_site "ag"
+CADEPN010000006.1	exonerate:protein2genome:local	cds	11676620	11676700	.	+	.	
+CADEPN010000006.1	exonerate:protein2genome:local	exon	11676620	11676700	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000006.1	exonerate:protein2genome:local	similarity	11636664	11676700	1336	+	.	alignment_id 0 ; Query SpoExig|Copsin1 ; Align 11636664 1 162 ; Align 11658191 56 192 ; Align 11663079 121 132 ; Align 11667979 165 141 ; Align 11676453 212 90 ; Align 11676620 242 81
+# --- END OF GFF DUMP ---
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+CADEPN010000010.1	exonerate:protein2genome:local	gene	6210575	6213493	1863	+	.	gene_id 0 ; sequence SpoExig|UV2 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+CADEPN010000010.1	exonerate:protein2genome:local	cds	6210575	6210627	.	+	.	
+CADEPN010000010.1	exonerate:protein2genome:local	exon	6210575	6210627	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000010.1	exonerate:protein2genome:local	splice5	6210628	6210629	.	+	.	intron_id 1 ; splice_site "GT"
+CADEPN010000010.1	exonerate:protein2genome:local	intron	6210628	6210763	.	+	.	intron_id 1
+CADEPN010000010.1	exonerate:protein2genome:local	splice3	6210762	6210763	.	+	.	intron_id 0 ; splice_site "AG"
+CADEPN010000010.1	exonerate:protein2genome:local	cds	6210764	6210955	.	+	.	
+CADEPN010000010.1	exonerate:protein2genome:local	exon	6210764	6210955	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000010.1	exonerate:protein2genome:local	splice5	6210956	6210957	.	+	.	intron_id 2 ; splice_site "GT"
+CADEPN010000010.1	exonerate:protein2genome:local	intron	6210956	6211035	.	+	.	intron_id 2
+CADEPN010000010.1	exonerate:protein2genome:local	splice3	6211034	6211035	.	+	.	intron_id 1 ; splice_site "aG"
+CADEPN010000010.1	exonerate:protein2genome:local	cds	6211036	6211245	.	+	.	
+CADEPN010000010.1	exonerate:protein2genome:local	exon	6211036	6211245	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000010.1	exonerate:protein2genome:local	splice5	6211246	6211247	.	+	.	intron_id 3 ; splice_site "GT"
+CADEPN010000010.1	exonerate:protein2genome:local	intron	6211246	6211472	.	+	.	intron_id 3
+CADEPN010000010.1	exonerate:protein2genome:local	splice3	6211471	6211472	.	+	.	intron_id 2 ; splice_site "AG"
+CADEPN010000010.1	exonerate:protein2genome:local	cds	6211473	6211609	.	+	.	
+CADEPN010000010.1	exonerate:protein2genome:local	exon	6211473	6211609	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000010.1	exonerate:protein2genome:local	splice5	6211610	6211611	.	+	.	intron_id 4 ; splice_site "GT"
+CADEPN010000010.1	exonerate:protein2genome:local	intron	6211610	6211696	.	+	.	intron_id 4
+CADEPN010000010.1	exonerate:protein2genome:local	splice3	6211695	6211696	.	+	.	intron_id 3 ; splice_site "ag"
+CADEPN010000010.1	exonerate:protein2genome:local	cds	6211697	6211862	.	+	.	
+CADEPN010000010.1	exonerate:protein2genome:local	exon	6211697	6211862	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000010.1	exonerate:protein2genome:local	splice5	6211863	6211864	.	+	.	intron_id 5 ; splice_site "GT"
+CADEPN010000010.1	exonerate:protein2genome:local	intron	6211863	6211943	.	+	.	intron_id 5
+CADEPN010000010.1	exonerate:protein2genome:local	splice3	6211942	6211943	.	+	.	intron_id 4 ; splice_site "ag"
+CADEPN010000010.1	exonerate:protein2genome:local	cds	6211944	6212130	.	+	.	
+CADEPN010000010.1	exonerate:protein2genome:local	exon	6211944	6212130	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000010.1	exonerate:protein2genome:local	splice5	6212131	6212132	.	+	.	intron_id 6 ; splice_site "gt"
+CADEPN010000010.1	exonerate:protein2genome:local	intron	6212131	6213157	.	+	.	intron_id 6
+CADEPN010000010.1	exonerate:protein2genome:local	splice3	6213156	6213157	.	+	.	intron_id 5 ; splice_site "AG"
+CADEPN010000010.1	exonerate:protein2genome:local	cds	6213158	6213240	.	+	.	
+CADEPN010000010.1	exonerate:protein2genome:local	exon	6213158	6213240	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000010.1	exonerate:protein2genome:local	splice5	6213241	6213242	.	+	.	intron_id 7 ; splice_site "GT"
+CADEPN010000010.1	exonerate:protein2genome:local	intron	6213241	6213390	.	+	.	intron_id 7
+CADEPN010000010.1	exonerate:protein2genome:local	splice3	6213389	6213390	.	+	.	intron_id 6 ; splice_site "AG"
+CADEPN010000010.1	exonerate:protein2genome:local	cds	6213391	6213493	.	+	.	
+CADEPN010000010.1	exonerate:protein2genome:local	exon	6213391	6213493	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000010.1	exonerate:protein2genome:local	similarity	6210575	6213493	1863	+	.	alignment_id 0 ; Query SpoExig|UV2 ; Align 6210575 1 51 ; Align 6210765 19 189 ; Align 6211037 83 207 ; Align 6211474 153 135 ; Align 6211699 199 162 ; Align 6211945 254 186 ; Align 6213158 316 81 ; Align 6213392 344 102
+# --- END OF GFF DUMP ---
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+CADEPN010000010.1	exonerate:protein2genome:local	gene	11073033	11097194	1953	+	.	gene_id 0 ; sequence SpoExig|Blue2 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+CADEPN010000010.1	exonerate:protein2genome:local	cds	11073033	11073085	.	+	.	
+CADEPN010000010.1	exonerate:protein2genome:local	exon	11073033	11073085	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000010.1	exonerate:protein2genome:local	splice5	11073086	11073087	.	+	.	intron_id 1 ; splice_site "GT"
+CADEPN010000010.1	exonerate:protein2genome:local	intron	11073086	11073475	.	+	.	intron_id 1
+CADEPN010000010.1	exonerate:protein2genome:local	splice3	11073474	11073475	.	+	.	intron_id 0 ; splice_site "AG"
+CADEPN010000010.1	exonerate:protein2genome:local	cds	11073476	11073667	.	+	.	
+CADEPN010000010.1	exonerate:protein2genome:local	exon	11073476	11073667	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000010.1	exonerate:protein2genome:local	splice5	11073668	11073669	.	+	.	intron_id 2 ; splice_site "GT"
+CADEPN010000010.1	exonerate:protein2genome:local	intron	11073668	11081058	.	+	.	intron_id 2
+CADEPN010000010.1	exonerate:protein2genome:local	splice3	11081057	11081058	.	+	.	intron_id 1 ; splice_site "AG"
+CADEPN010000010.1	exonerate:protein2genome:local	cds	11081059	11081274	.	+	.	
+CADEPN010000010.1	exonerate:protein2genome:local	exon	11081059	11081274	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000010.1	exonerate:protein2genome:local	splice5	11081275	11081276	.	+	.	intron_id 3 ; splice_site "gt"
+CADEPN010000010.1	exonerate:protein2genome:local	intron	11081275	11082756	.	+	.	intron_id 3
+CADEPN010000010.1	exonerate:protein2genome:local	splice3	11082755	11082756	.	+	.	intron_id 2 ; splice_site "AG"
+CADEPN010000010.1	exonerate:protein2genome:local	cds	11082757	11082887	.	+	.	
+CADEPN010000010.1	exonerate:protein2genome:local	exon	11082757	11082887	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000010.1	exonerate:protein2genome:local	splice5	11082888	11082889	.	+	.	intron_id 4 ; splice_site "gt"
+CADEPN010000010.1	exonerate:protein2genome:local	intron	11082888	11085478	.	+	.	intron_id 4
+CADEPN010000010.1	exonerate:protein2genome:local	splice3	11085477	11085478	.	+	.	intron_id 3 ; splice_site "AG"
+CADEPN010000010.1	exonerate:protein2genome:local	cds	11085479	11085618	.	+	.	
+CADEPN010000010.1	exonerate:protein2genome:local	exon	11085479	11085618	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000010.1	exonerate:protein2genome:local	splice5	11085619	11085620	.	+	.	intron_id 5 ; splice_site "gt"
+CADEPN010000010.1	exonerate:protein2genome:local	intron	11085619	11094311	.	+	.	intron_id 5
+CADEPN010000010.1	exonerate:protein2genome:local	splice3	11094310	11094311	.	+	.	intron_id 4 ; splice_site "AG"
+CADEPN010000010.1	exonerate:protein2genome:local	cds	11094312	11094505	.	+	.	
+CADEPN010000010.1	exonerate:protein2genome:local	exon	11094312	11094505	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000010.1	exonerate:protein2genome:local	splice5	11094506	11094507	.	+	.	intron_id 6 ; splice_site "GT"
+CADEPN010000010.1	exonerate:protein2genome:local	intron	11094506	11096449	.	+	.	intron_id 6
+CADEPN010000010.1	exonerate:protein2genome:local	splice3	11096448	11096449	.	+	.	intron_id 5 ; splice_site "AG"
+CADEPN010000010.1	exonerate:protein2genome:local	cds	11096450	11096551	.	+	.	
+CADEPN010000010.1	exonerate:protein2genome:local	exon	11096450	11096551	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000010.1	exonerate:protein2genome:local	splice5	11096552	11096553	.	+	.	intron_id 7 ; splice_site "GT"
+CADEPN010000010.1	exonerate:protein2genome:local	intron	11096552	11097076	.	+	.	intron_id 7
+CADEPN010000010.1	exonerate:protein2genome:local	splice3	11097075	11097076	.	+	.	intron_id 6 ; splice_site "AG"
+CADEPN010000010.1	exonerate:protein2genome:local	cds	11097077	11097194	.	+	.	
+CADEPN010000010.1	exonerate:protein2genome:local	exon	11097077	11097194	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+CADEPN010000010.1	exonerate:protein2genome:local	similarity	11073033	11097194	1953	+	.	alignment_id 0 ; Query SpoExig|Blue2 ; Align 11073033 1 51 ; Align 11073477 19 189 ; Align 11081060 83 213 ; Align 11082758 155 129 ; Align 11085481 199 138 ; Align 11094312 245 192 ; Align 11096451 310 99 ; Align 11097078 344 117
+# --- END OF GFF DUMP ---

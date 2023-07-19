@@ -1,0 +1,234 @@
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+OU744808.1	exonerate:protein2genome:local	gene	7434733	7458117	1571	-	.	gene_id 0 ; sequence MesFuru|Blue3 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+OU744808.1	exonerate:protein2genome:local	cds	7457873	7458117	.	-	.	
+OU744808.1	exonerate:protein2genome:local	exon	7457873	7458117	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744808.1	exonerate:protein2genome:local	splice5	7457871	7457872	.	-	.	intron_id 1 ; splice_site "GT"
+OU744808.1	exonerate:protein2genome:local	intron	7456806	7457872	.	-	.	intron_id 1
+OU744808.1	exonerate:protein2genome:local	splice3	7456806	7456807	.	-	.	intron_id 0 ; splice_site "AG"
+OU744808.1	exonerate:protein2genome:local	cds	7456675	7456805	.	-	.	
+OU744808.1	exonerate:protein2genome:local	exon	7456675	7456805	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744808.1	exonerate:protein2genome:local	splice5	7456673	7456674	.	-	.	intron_id 2 ; splice_site "GT"
+OU744808.1	exonerate:protein2genome:local	intron	7452402	7456674	.	-	.	intron_id 2
+OU744808.1	exonerate:protein2genome:local	splice3	7452402	7452403	.	-	.	intron_id 1 ; splice_site "AG"
+OU744808.1	exonerate:protein2genome:local	cds	7452262	7452401	.	-	.	
+OU744808.1	exonerate:protein2genome:local	exon	7452262	7452401	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744808.1	exonerate:protein2genome:local	splice5	7452260	7452261	.	-	.	intron_id 3 ; splice_site "GT"
+OU744808.1	exonerate:protein2genome:local	intron	7438665	7452261	.	-	.	intron_id 3
+OU744808.1	exonerate:protein2genome:local	splice3	7438665	7438666	.	-	.	intron_id 2 ; splice_site "AG"
+OU744808.1	exonerate:protein2genome:local	cds	7438471	7438664	.	-	.	
+OU744808.1	exonerate:protein2genome:local	exon	7438471	7438664	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744808.1	exonerate:protein2genome:local	splice5	7438469	7438470	.	-	.	intron_id 4 ; splice_site "GT"
+OU744808.1	exonerate:protein2genome:local	intron	7435522	7438470	.	-	.	intron_id 4
+OU744808.1	exonerate:protein2genome:local	splice3	7435522	7435523	.	-	.	intron_id 3 ; splice_site "AG"
+OU744808.1	exonerate:protein2genome:local	cds	7435420	7435521	.	-	.	
+OU744808.1	exonerate:protein2genome:local	exon	7435420	7435521	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744808.1	exonerate:protein2genome:local	splice5	7435418	7435419	.	-	.	intron_id 5 ; splice_site "GT"
+OU744808.1	exonerate:protein2genome:local	intron	7434851	7435419	.	-	.	intron_id 5
+OU744808.1	exonerate:protein2genome:local	splice3	7434851	7434852	.	-	.	intron_id 4 ; splice_site "AG"
+OU744808.1	exonerate:protein2genome:local	cds	7434733	7434850	.	-	.	
+OU744808.1	exonerate:protein2genome:local	exon	7434733	7434850	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744808.1	exonerate:protein2genome:local	similarity	7434733	7458117	1571	-	.	alignment_id 0 ; Query MesFuru|Blue3 ; Align 7458118 1 243 ; Align 7456805 83 129 ; Align 7452400 127 138 ; Align 7438665 173 192 ; Align 7435521 238 99 ; Align 7434850 272 117
+# --- END OF GFF DUMP ---
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+OU744806.1	exonerate:protein2genome:local	gene	22759919	22770394	797	+	.	gene_id 0 ; sequence MesFuru|Copsin1 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+OU744806.1	exonerate:protein2genome:local	cds	22759919	22760130	.	+	.	
+OU744806.1	exonerate:protein2genome:local	exon	22759919	22760130	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744806.1	exonerate:protein2genome:local	splice5	22760131	22760132	.	+	.	intron_id 1 ; splice_site "gt"
+OU744806.1	exonerate:protein2genome:local	intron	22760131	22762437	.	+	.	intron_id 1
+OU744806.1	exonerate:protein2genome:local	splice3	22762436	22762437	.	+	.	intron_id 0 ; splice_site "ag"
+OU744806.1	exonerate:protein2genome:local	cds	22762438	22762570	.	+	.	
+OU744806.1	exonerate:protein2genome:local	exon	22762438	22762570	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744806.1	exonerate:protein2genome:local	splice5	22762571	22762572	.	+	.	intron_id 2 ; splice_site "GT"
+OU744806.1	exonerate:protein2genome:local	intron	22762571	22770247	.	+	.	intron_id 2
+OU744806.1	exonerate:protein2genome:local	splice3	22770246	22770247	.	+	.	intron_id 1 ; splice_site "AG"
+OU744806.1	exonerate:protein2genome:local	cds	22770248	22770394	.	+	.	
+OU744806.1	exonerate:protein2genome:local	exon	22770248	22770394	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744806.1	exonerate:protein2genome:local	similarity	22759919	22770394	797	+	.	alignment_id 0 ; Query MesFuru|Copsin1 ; Align 22759919 1 210 ; Align 22762439 72 132 ; Align 22770248 116 147
+# --- END OF GFF DUMP ---
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+OU744798.1	exonerate:protein2genome:local	gene	13274378	13276915	1943	-	.	gene_id 0 ; sequence MesFuru|Rh71 ; gene_orientation + ; identity 97.92 ; similarity 98.70
+OU744798.1	exonerate:protein2genome:local	cds	13276753	13276915	.	-	.	
+OU744798.1	exonerate:protein2genome:local	exon	13276753	13276915	.	-	.	insertions 0 ; deletions 0 ; identity 85.19 ; similarity 90.74
+OU744798.1	exonerate:protein2genome:local	splice5	13276751	13276752	.	-	.	intron_id 1 ; splice_site "GT"
+OU744798.1	exonerate:protein2genome:local	intron	13275373	13276752	.	-	.	intron_id 1
+OU744798.1	exonerate:protein2genome:local	splice3	13275373	13275374	.	-	.	intron_id 0 ; splice_site "ag"
+OU744798.1	exonerate:protein2genome:local	cds	13274378	13275372	.	-	.	
+OU744798.1	exonerate:protein2genome:local	exon	13274378	13275372	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744798.1	exonerate:protein2genome:local	similarity	13274378	13276915	1943	-	.	alignment_id 0 ; Query MesFuru|Rh71 ; Align 13276916 12 162 ; Align 13275371 67 993
+# --- END OF GFF DUMP ---
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+OU744800.1	exonerate:protein2genome:local	gene	25120934	25122067	2010	+	.	gene_id 0 ; sequence MesFuru|LWS1 ; gene_orientation . ; identity 100.00 ; similarity 100.00
+OU744800.1	exonerate:protein2genome:local	cds	25120934	25122067	.	+	.	
+OU744800.1	exonerate:protein2genome:local	exon	25120934	25122067	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744800.1	exonerate:protein2genome:local	similarity	25120934	25122067	2010	+	.	alignment_id 0 ; Query MesFuru|LWS1 ; Align 25120934 1 1134
+# --- END OF GFF DUMP ---
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+OU744799.1	exonerate:protein2genome:local	gene	24952778	24953914	2005	+	.	gene_id 0 ; sequence MesFuru|LWS4 ; gene_orientation . ; identity 100.00 ; similarity 100.00
+OU744799.1	exonerate:protein2genome:local	cds	24952778	24953914	.	+	.	
+OU744799.1	exonerate:protein2genome:local	exon	24952778	24953914	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744799.1	exonerate:protein2genome:local	similarity	24952778	24953914	2005	+	.	alignment_id 0 ; Query MesFuru|LWS4 ; Align 24952778 1 1137
+# --- END OF GFF DUMP ---
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+OU744793.1	exonerate:protein2genome:local	gene	15282642	15285216	1944	-	.	gene_id 0 ; sequence MesFuru|LWS3 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+OU744793.1	exonerate:protein2genome:local	cds	15285071	15285216	.	-	.	
+OU744793.1	exonerate:protein2genome:local	exon	15285071	15285216	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744793.1	exonerate:protein2genome:local	splice5	15285069	15285070	.	-	.	intron_id 1 ; splice_site "GT"
+OU744793.1	exonerate:protein2genome:local	intron	15284955	15285070	.	-	.	intron_id 1
+OU744793.1	exonerate:protein2genome:local	splice3	15284955	15284956	.	-	.	intron_id 0 ; splice_site "ag"
+OU744793.1	exonerate:protein2genome:local	cds	15284834	15284954	.	-	.	
+OU744793.1	exonerate:protein2genome:local	exon	15284834	15284954	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744793.1	exonerate:protein2genome:local	splice5	15284832	15284833	.	-	.	intron_id 2 ; splice_site "gt"
+OU744793.1	exonerate:protein2genome:local	intron	15284757	15284833	.	-	.	intron_id 2
+OU744793.1	exonerate:protein2genome:local	splice3	15284757	15284758	.	-	.	intron_id 1 ; splice_site "ag"
+OU744793.1	exonerate:protein2genome:local	cds	15284639	15284756	.	-	.	
+OU744793.1	exonerate:protein2genome:local	exon	15284639	15284756	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744793.1	exonerate:protein2genome:local	splice5	15284637	15284638	.	-	.	intron_id 3 ; splice_site "GT"
+OU744793.1	exonerate:protein2genome:local	intron	15283815	15284638	.	-	.	intron_id 3
+OU744793.1	exonerate:protein2genome:local	splice3	15283815	15283816	.	-	.	intron_id 2 ; splice_site "AG"
+OU744793.1	exonerate:protein2genome:local	cds	15283601	15283814	.	-	.	
+OU744793.1	exonerate:protein2genome:local	exon	15283601	15283814	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744793.1	exonerate:protein2genome:local	splice5	15283599	15283600	.	-	.	intron_id 4 ; splice_site "GT"
+OU744793.1	exonerate:protein2genome:local	intron	15283510	15283600	.	-	.	intron_id 4
+OU744793.1	exonerate:protein2genome:local	splice3	15283510	15283511	.	-	.	intron_id 3 ; splice_site "AG"
+OU744793.1	exonerate:protein2genome:local	cds	15283362	15283509	.	-	.	
+OU744793.1	exonerate:protein2genome:local	exon	15283362	15283509	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744793.1	exonerate:protein2genome:local	splice5	15283360	15283361	.	-	.	intron_id 5 ; splice_site "gt"
+OU744793.1	exonerate:protein2genome:local	intron	15283275	15283361	.	-	.	intron_id 5
+OU744793.1	exonerate:protein2genome:local	splice3	15283275	15283276	.	-	.	intron_id 4 ; splice_site "AG"
+OU744793.1	exonerate:protein2genome:local	cds	15283164	15283274	.	-	.	
+OU744793.1	exonerate:protein2genome:local	exon	15283164	15283274	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744793.1	exonerate:protein2genome:local	splice5	15283162	15283163	.	-	.	intron_id 6 ; splice_site "GT"
+OU744793.1	exonerate:protein2genome:local	intron	15283077	15283163	.	-	.	intron_id 6
+OU744793.1	exonerate:protein2genome:local	splice3	15283077	15283078	.	-	.	intron_id 5 ; splice_site "AG"
+OU744793.1	exonerate:protein2genome:local	cds	15282910	15283076	.	-	.	
+OU744793.1	exonerate:protein2genome:local	exon	15282910	15283076	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744793.1	exonerate:protein2genome:local	splice5	15282908	15282909	.	-	.	intron_id 7 ; splice_site "GT"
+OU744793.1	exonerate:protein2genome:local	intron	15282766	15282909	.	-	.	intron_id 7
+OU744793.1	exonerate:protein2genome:local	splice3	15282766	15282767	.	-	.	intron_id 6 ; splice_site "AG"
+OU744793.1	exonerate:protein2genome:local	cds	15282642	15282765	.	-	.	
+OU744793.1	exonerate:protein2genome:local	exon	15282642	15282765	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744793.1	exonerate:protein2genome:local	similarity	15282642	15285216	1944	-	.	alignment_id 0 ; Query MesFuru|LWS3 ; Align 15285217 1 144 ; Align 15284954 50 120 ; Align 15284757 90 117 ; Align 15283813 130 210 ; Align 15283509 201 147 ; Align 15283275 250 111 ; Align 15283077 287 165 ; Align 15282765 343 123
+# --- END OF GFF DUMP ---
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+OU744808.1	exonerate:protein2genome:local	gene	16977599	16983153	1864	-	.	gene_id 0 ; sequence MesFuru|UV1 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+OU744808.1	exonerate:protein2genome:local	cds	16983101	16983153	.	-	.	
+OU744808.1	exonerate:protein2genome:local	exon	16983101	16983153	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744808.1	exonerate:protein2genome:local	splice5	16983099	16983100	.	-	.	intron_id 1 ; splice_site "GT"
+OU744808.1	exonerate:protein2genome:local	intron	16983024	16983100	.	-	.	intron_id 1
+OU744808.1	exonerate:protein2genome:local	splice3	16983024	16983025	.	-	.	intron_id 0 ; splice_site "AG"
+OU744808.1	exonerate:protein2genome:local	cds	16982832	16983023	.	-	.	
+OU744808.1	exonerate:protein2genome:local	exon	16982832	16983023	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744808.1	exonerate:protein2genome:local	splice5	16982830	16982831	.	-	.	intron_id 2 ; splice_site "GT"
+OU744808.1	exonerate:protein2genome:local	intron	16982435	16982831	.	-	.	intron_id 2
+OU744808.1	exonerate:protein2genome:local	splice3	16982435	16982436	.	-	.	intron_id 1 ; splice_site "aG"
+OU744808.1	exonerate:protein2genome:local	cds	16982225	16982434	.	-	.	
+OU744808.1	exonerate:protein2genome:local	exon	16982225	16982434	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744808.1	exonerate:protein2genome:local	splice5	16982223	16982224	.	-	.	intron_id 3 ; splice_site "GT"
+OU744808.1	exonerate:protein2genome:local	intron	16982003	16982224	.	-	.	intron_id 3
+OU744808.1	exonerate:protein2genome:local	splice3	16982003	16982004	.	-	.	intron_id 2 ; splice_site "AG"
+OU744808.1	exonerate:protein2genome:local	cds	16981866	16982002	.	-	.	
+OU744808.1	exonerate:protein2genome:local	exon	16981866	16982002	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744808.1	exonerate:protein2genome:local	splice5	16981864	16981865	.	-	.	intron_id 4 ; splice_site "GT"
+OU744808.1	exonerate:protein2genome:local	intron	16981790	16981865	.	-	.	intron_id 4
+OU744808.1	exonerate:protein2genome:local	splice3	16981790	16981791	.	-	.	intron_id 3 ; splice_site "ag"
+OU744808.1	exonerate:protein2genome:local	cds	16981624	16981789	.	-	.	
+OU744808.1	exonerate:protein2genome:local	exon	16981624	16981789	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744808.1	exonerate:protein2genome:local	splice5	16981622	16981623	.	-	.	intron_id 5 ; splice_site "GT"
+OU744808.1	exonerate:protein2genome:local	intron	16981539	16981623	.	-	.	intron_id 5
+OU744808.1	exonerate:protein2genome:local	splice3	16981539	16981540	.	-	.	intron_id 4 ; splice_site "AG"
+OU744808.1	exonerate:protein2genome:local	cds	16981352	16981538	.	-	.	
+OU744808.1	exonerate:protein2genome:local	exon	16981352	16981538	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744808.1	exonerate:protein2genome:local	splice5	16981350	16981351	.	-	.	intron_id 6 ; splice_site "gt"
+OU744808.1	exonerate:protein2genome:local	intron	16981040	16981351	.	-	.	intron_id 6
+OU744808.1	exonerate:protein2genome:local	splice3	16981040	16981041	.	-	.	intron_id 5 ; splice_site "AG"
+OU744808.1	exonerate:protein2genome:local	cds	16980957	16981039	.	-	.	
+OU744808.1	exonerate:protein2genome:local	exon	16980957	16981039	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744808.1	exonerate:protein2genome:local	splice5	16980955	16980956	.	-	.	intron_id 7 ; splice_site "GT"
+OU744808.1	exonerate:protein2genome:local	intron	16977708	16980956	.	-	.	intron_id 7
+OU744808.1	exonerate:protein2genome:local	splice3	16977708	16977709	.	-	.	intron_id 6 ; splice_site "ag"
+OU744808.1	exonerate:protein2genome:local	cds	16977599	16977707	.	-	.	
+OU744808.1	exonerate:protein2genome:local	exon	16977599	16977707	.	-	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+OU744808.1	exonerate:protein2genome:local	similarity	16977599	16983153	1864	-	.	alignment_id 0 ; Query MesFuru|UV1 ; Align 16983154 1 51 ; Align 16983023 19 189 ; Align 16982434 83 207 ; Align 16982002 153 135 ; Align 16981788 199 162 ; Align 16981538 254 186 ; Align 16981040 316 81 ; Align 16977707 344 108
+# --- END OF GFF DUMP ---

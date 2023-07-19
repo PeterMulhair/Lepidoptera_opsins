@@ -1,0 +1,208 @@
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+JAHKQU010000001.1	exonerate:protein2genome:local	gene	10588756	10608344	1879	+	.	gene_id 0 ; sequence NeoCorn|LWS2 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+JAHKQU010000001.1	exonerate:protein2genome:local	cds	10588756	10588874	.	+	.	
+JAHKQU010000001.1	exonerate:protein2genome:local	exon	10588756	10588874	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000001.1	exonerate:protein2genome:local	splice5	10588875	10588876	.	+	.	intron_id 1 ; splice_site "GT"
+JAHKQU010000001.1	exonerate:protein2genome:local	intron	10588875	10589104	.	+	.	intron_id 1
+JAHKQU010000001.1	exonerate:protein2genome:local	splice3	10589103	10589104	.	+	.	intron_id 0 ; splice_site "ag"
+JAHKQU010000001.1	exonerate:protein2genome:local	cds	10589105	10589225	.	+	.	
+JAHKQU010000001.1	exonerate:protein2genome:local	exon	10589105	10589225	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000001.1	exonerate:protein2genome:local	splice5	10589226	10589227	.	+	.	intron_id 2 ; splice_site "GT"
+JAHKQU010000001.1	exonerate:protein2genome:local	intron	10589226	10590999	.	+	.	intron_id 2
+JAHKQU010000001.1	exonerate:protein2genome:local	splice3	10590998	10590999	.	+	.	intron_id 1 ; splice_site "AG"
+JAHKQU010000001.1	exonerate:protein2genome:local	cds	10591000	10591117	.	+	.	
+JAHKQU010000001.1	exonerate:protein2genome:local	exon	10591000	10591117	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000001.1	exonerate:protein2genome:local	splice5	10591118	10591119	.	+	.	intron_id 3 ; splice_site "GT"
+JAHKQU010000001.1	exonerate:protein2genome:local	intron	10591118	10591800	.	+	.	intron_id 3
+JAHKQU010000001.1	exonerate:protein2genome:local	splice3	10591799	10591800	.	+	.	intron_id 2 ; splice_site "AG"
+JAHKQU010000001.1	exonerate:protein2genome:local	cds	10591801	10592014	.	+	.	
+JAHKQU010000001.1	exonerate:protein2genome:local	exon	10591801	10592014	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000001.1	exonerate:protein2genome:local	splice5	10592015	10592016	.	+	.	intron_id 4 ; splice_site "GT"
+JAHKQU010000001.1	exonerate:protein2genome:local	intron	10592015	10606477	.	+	.	intron_id 4
+JAHKQU010000001.1	exonerate:protein2genome:local	splice3	10606476	10606477	.	+	.	intron_id 3 ; splice_site "AG"
+JAHKQU010000001.1	exonerate:protein2genome:local	cds	10606478	10606625	.	+	.	
+JAHKQU010000001.1	exonerate:protein2genome:local	exon	10606478	10606625	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000001.1	exonerate:protein2genome:local	splice5	10606626	10606627	.	+	.	intron_id 5 ; splice_site "GT"
+JAHKQU010000001.1	exonerate:protein2genome:local	intron	10606626	10606890	.	+	.	intron_id 5
+JAHKQU010000001.1	exonerate:protein2genome:local	splice3	10606889	10606890	.	+	.	intron_id 4 ; splice_site "AG"
+JAHKQU010000001.1	exonerate:protein2genome:local	cds	10606891	10607001	.	+	.	
+JAHKQU010000001.1	exonerate:protein2genome:local	exon	10606891	10607001	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000001.1	exonerate:protein2genome:local	splice5	10607002	10607003	.	+	.	intron_id 6 ; splice_site "GT"
+JAHKQU010000001.1	exonerate:protein2genome:local	intron	10607002	10607588	.	+	.	intron_id 6
+JAHKQU010000001.1	exonerate:protein2genome:local	splice3	10607587	10607588	.	+	.	intron_id 5 ; splice_site "AG"
+JAHKQU010000001.1	exonerate:protein2genome:local	cds	10607589	10607755	.	+	.	
+JAHKQU010000001.1	exonerate:protein2genome:local	exon	10607589	10607755	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000001.1	exonerate:protein2genome:local	splice5	10607756	10607757	.	+	.	intron_id 7 ; splice_site "GT"
+JAHKQU010000001.1	exonerate:protein2genome:local	intron	10607756	10608220	.	+	.	intron_id 7
+JAHKQU010000001.1	exonerate:protein2genome:local	splice3	10608219	10608220	.	+	.	intron_id 6 ; splice_site "ag"
+JAHKQU010000001.1	exonerate:protein2genome:local	cds	10608221	10608344	.	+	.	
+JAHKQU010000001.1	exonerate:protein2genome:local	exon	10608221	10608344	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000001.1	exonerate:protein2genome:local	similarity	10588756	10608344	1879	+	.	alignment_id 0 ; Query NeoCorn|LWS2 ; Align 10588756 1 117 ; Align 10589106 41 120 ; Align 10591000 81 117 ; Align 10591803 121 210 ; Align 10606479 192 147 ; Align 10606891 241 111 ; Align 10607589 278 165 ; Align 10608222 334 123
+# --- END OF GFF DUMP ---
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+JAHKQU010000019.1	exonerate:protein2genome:local	gene	15592743	15599867	1878	+	.	gene_id 0 ; sequence NeoCorn|Blue3 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+JAHKQU010000019.1	exonerate:protein2genome:local	cds	15592743	15592798	.	+	.	
+JAHKQU010000019.1	exonerate:protein2genome:local	exon	15592743	15592798	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000019.1	exonerate:protein2genome:local	splice5	15592799	15592800	.	+	.	intron_id 1 ; splice_site "GT"
+JAHKQU010000019.1	exonerate:protein2genome:local	intron	15592799	15593468	.	+	.	intron_id 1
+JAHKQU010000019.1	exonerate:protein2genome:local	splice3	15593467	15593468	.	+	.	intron_id 0 ; splice_site "AG"
+JAHKQU010000019.1	exonerate:protein2genome:local	cds	15593469	15593660	.	+	.	
+JAHKQU010000019.1	exonerate:protein2genome:local	exon	15593469	15593660	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000019.1	exonerate:protein2genome:local	splice5	15593661	15593662	.	+	.	intron_id 2 ; splice_site "GT"
+JAHKQU010000019.1	exonerate:protein2genome:local	intron	15593661	15593744	.	+	.	intron_id 2
+JAHKQU010000019.1	exonerate:protein2genome:local	splice3	15593743	15593744	.	+	.	intron_id 1 ; splice_site "AG"
+JAHKQU010000019.1	exonerate:protein2genome:local	cds	15593745	15593960	.	+	.	
+JAHKQU010000019.1	exonerate:protein2genome:local	exon	15593745	15593960	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000019.1	exonerate:protein2genome:local	splice5	15593961	15593962	.	+	.	intron_id 3 ; splice_site "GT"
+JAHKQU010000019.1	exonerate:protein2genome:local	intron	15593961	15595451	.	+	.	intron_id 3
+JAHKQU010000019.1	exonerate:protein2genome:local	splice3	15595450	15595451	.	+	.	intron_id 2 ; splice_site "AG"
+JAHKQU010000019.1	exonerate:protein2genome:local	cds	15595452	15595582	.	+	.	
+JAHKQU010000019.1	exonerate:protein2genome:local	exon	15595452	15595582	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000019.1	exonerate:protein2genome:local	splice5	15595583	15595584	.	+	.	intron_id 4 ; splice_site "GT"
+JAHKQU010000019.1	exonerate:protein2genome:local	intron	15595583	15596859	.	+	.	intron_id 4
+JAHKQU010000019.1	exonerate:protein2genome:local	splice3	15596858	15596859	.	+	.	intron_id 3 ; splice_site "AG"
+JAHKQU010000019.1	exonerate:protein2genome:local	cds	15596860	15596999	.	+	.	
+JAHKQU010000019.1	exonerate:protein2genome:local	exon	15596860	15596999	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000019.1	exonerate:protein2genome:local	splice5	15597000	15597001	.	+	.	intron_id 5 ; splice_site "GT"
+JAHKQU010000019.1	exonerate:protein2genome:local	intron	15597000	15597656	.	+	.	intron_id 5
+JAHKQU010000019.1	exonerate:protein2genome:local	splice3	15597655	15597656	.	+	.	intron_id 4 ; splice_site "AG"
+JAHKQU010000019.1	exonerate:protein2genome:local	cds	15597657	15597850	.	+	.	
+JAHKQU010000019.1	exonerate:protein2genome:local	exon	15597657	15597850	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000019.1	exonerate:protein2genome:local	splice5	15597851	15597852	.	+	.	intron_id 6 ; splice_site "GT"
+JAHKQU010000019.1	exonerate:protein2genome:local	intron	15597851	15598805	.	+	.	intron_id 6
+JAHKQU010000019.1	exonerate:protein2genome:local	splice3	15598804	15598805	.	+	.	intron_id 5 ; splice_site "ag"
+JAHKQU010000019.1	exonerate:protein2genome:local	cds	15598806	15598907	.	+	.	
+JAHKQU010000019.1	exonerate:protein2genome:local	exon	15598806	15598907	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000019.1	exonerate:protein2genome:local	splice5	15598908	15598909	.	+	.	intron_id 7 ; splice_site "gt"
+JAHKQU010000019.1	exonerate:protein2genome:local	intron	15598908	15599764	.	+	.	intron_id 7
+JAHKQU010000019.1	exonerate:protein2genome:local	splice3	15599763	15599764	.	+	.	intron_id 6 ; splice_site "AG"
+JAHKQU010000019.1	exonerate:protein2genome:local	cds	15599765	15599867	.	+	.	
+JAHKQU010000019.1	exonerate:protein2genome:local	exon	15599765	15599867	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000019.1	exonerate:protein2genome:local	similarity	15592743	15599867	1878	+	.	alignment_id 0 ; Query NeoCorn|Blue3 ; Align 15592743 1 54 ; Align 15593470 20 189 ; Align 15593746 84 213 ; Align 15595453 156 129 ; Align 15596862 200 138 ; Align 15597657 246 192 ; Align 15598807 311 99 ; Align 15599766 345 102
+# --- END OF GFF DUMP ---
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+JAHKQU010000009.1	exonerate:protein2genome:local	gene	13525196	13532123	930	+	.	gene_id 0 ; sequence NeoCorn|Copsin1 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+JAHKQU010000009.1	exonerate:protein2genome:local	cds	13525196	13525407	.	+	.	
+JAHKQU010000009.1	exonerate:protein2genome:local	exon	13525196	13525407	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000009.1	exonerate:protein2genome:local	splice5	13525408	13525409	.	+	.	intron_id 1 ; splice_site "GT"
+JAHKQU010000009.1	exonerate:protein2genome:local	intron	13525408	13526829	.	+	.	intron_id 1
+JAHKQU010000009.1	exonerate:protein2genome:local	splice3	13526828	13526829	.	+	.	intron_id 0 ; splice_site "AG"
+JAHKQU010000009.1	exonerate:protein2genome:local	cds	13526830	13526962	.	+	.	
+JAHKQU010000009.1	exonerate:protein2genome:local	exon	13526830	13526962	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000009.1	exonerate:protein2genome:local	splice5	13526963	13526964	.	+	.	intron_id 2 ; splice_site "GT"
+JAHKQU010000009.1	exonerate:protein2genome:local	intron	13526963	13528750	.	+	.	intron_id 2
+JAHKQU010000009.1	exonerate:protein2genome:local	splice3	13528749	13528750	.	+	.	intron_id 1 ; splice_site "AG"
+JAHKQU010000009.1	exonerate:protein2genome:local	cds	13528751	13528891	.	+	.	
+JAHKQU010000009.1	exonerate:protein2genome:local	exon	13528751	13528891	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000009.1	exonerate:protein2genome:local	splice5	13528892	13528893	.	+	.	intron_id 3 ; splice_site "GT"
+JAHKQU010000009.1	exonerate:protein2genome:local	intron	13528892	13532033	.	+	.	intron_id 3
+JAHKQU010000009.1	exonerate:protein2genome:local	splice3	13532032	13532033	.	+	.	intron_id 2 ; splice_site "ag"
+JAHKQU010000009.1	exonerate:protein2genome:local	cds	13532034	13532123	.	+	.	
+JAHKQU010000009.1	exonerate:protein2genome:local	exon	13532034	13532123	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000009.1	exonerate:protein2genome:local	similarity	13525196	13532123	930	+	.	alignment_id 0 ; Query NeoCorn|Copsin1 ; Align 13525196 1 210 ; Align 13526831 72 132 ; Align 13528751 116 141 ; Align 13532034 163 90
+# --- END OF GFF DUMP ---
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+JAHKQU010000100.1	exonerate:protein2genome:local	gene	437720	439694	1579	+	.	gene_id 0 ; sequence NeoCorn|Rh72 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+JAHKQU010000100.1	exonerate:protein2genome:local	cds	437720	437861	.	+	.	
+JAHKQU010000100.1	exonerate:protein2genome:local	exon	437720	437861	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000100.1	exonerate:protein2genome:local	splice5	437862	437863	.	+	.	intron_id 1 ; splice_site "GT"
+JAHKQU010000100.1	exonerate:protein2genome:local	intron	437862	438918	.	+	.	intron_id 1
+JAHKQU010000100.1	exonerate:protein2genome:local	splice3	438917	438918	.	+	.	intron_id 0 ; splice_site "ag"
+JAHKQU010000100.1	exonerate:protein2genome:local	cds	438919	439694	.	+	.	
+JAHKQU010000100.1	exonerate:protein2genome:local	exon	438919	439694	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000100.1	exonerate:protein2genome:local	similarity	437720	439694	1579	+	.	alignment_id 0 ; Query NeoCorn|Rh72 ; Align 437720 1 141 ; Align 438921 49 774
+# --- END OF GFF DUMP ---
+
+#
+# --- START OF GFF DUMP ---
+#
+#
+##gff-version 2
+##source-version exonerate:protein2genome:local 2.4.0
+##date 2022-12-01
+##type DNA
+#
+#
+# seqname source feature start end score strand frame attributes
+#
+JAHKQU010000019.1	exonerate:protein2genome:local	gene	479414	486019	1866	+	.	gene_id 0 ; sequence NeoCorn|UV1 ; gene_orientation + ; identity 100.00 ; similarity 100.00
+JAHKQU010000019.1	exonerate:protein2genome:local	cds	479414	479640	.	+	.	
+JAHKQU010000019.1	exonerate:protein2genome:local	exon	479414	479640	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000019.1	exonerate:protein2genome:local	splice5	479641	479642	.	+	.	intron_id 1 ; splice_site "GT"
+JAHKQU010000019.1	exonerate:protein2genome:local	intron	479641	480453	.	+	.	intron_id 1
+JAHKQU010000019.1	exonerate:protein2genome:local	splice3	480452	480453	.	+	.	intron_id 0 ; splice_site "AG"
+JAHKQU010000019.1	exonerate:protein2genome:local	cds	480454	480663	.	+	.	
+JAHKQU010000019.1	exonerate:protein2genome:local	exon	480454	480663	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000019.1	exonerate:protein2genome:local	splice5	480664	480665	.	+	.	intron_id 2 ; splice_site "GT"
+JAHKQU010000019.1	exonerate:protein2genome:local	intron	480664	481295	.	+	.	intron_id 2
+JAHKQU010000019.1	exonerate:protein2genome:local	splice3	481294	481295	.	+	.	intron_id 1 ; splice_site "AG"
+JAHKQU010000019.1	exonerate:protein2genome:local	cds	481296	481432	.	+	.	
+JAHKQU010000019.1	exonerate:protein2genome:local	exon	481296	481432	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000019.1	exonerate:protein2genome:local	splice5	481433	481434	.	+	.	intron_id 3 ; splice_site "GT"
+JAHKQU010000019.1	exonerate:protein2genome:local	intron	481433	482620	.	+	.	intron_id 3
+JAHKQU010000019.1	exonerate:protein2genome:local	splice3	482619	482620	.	+	.	intron_id 2 ; splice_site "AG"
+JAHKQU010000019.1	exonerate:protein2genome:local	cds	482621	482822	.	+	.	
+JAHKQU010000019.1	exonerate:protein2genome:local	exon	482621	482822	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000019.1	exonerate:protein2genome:local	splice5	482823	482824	.	+	.	intron_id 4 ; splice_site "GT"
+JAHKQU010000019.1	exonerate:protein2genome:local	intron	482823	483847	.	+	.	intron_id 4
+JAHKQU010000019.1	exonerate:protein2genome:local	splice3	483846	483847	.	+	.	intron_id 3 ; splice_site "AG"
+JAHKQU010000019.1	exonerate:protein2genome:local	cds	483848	483998	.	+	.	
+JAHKQU010000019.1	exonerate:protein2genome:local	exon	483848	483998	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000019.1	exonerate:protein2genome:local	splice5	483999	484000	.	+	.	intron_id 5 ; splice_site "GT"
+JAHKQU010000019.1	exonerate:protein2genome:local	intron	483999	484726	.	+	.	intron_id 5
+JAHKQU010000019.1	exonerate:protein2genome:local	splice3	484725	484726	.	+	.	intron_id 4 ; splice_site "AG"
+JAHKQU010000019.1	exonerate:protein2genome:local	cds	484727	484809	.	+	.	
+JAHKQU010000019.1	exonerate:protein2genome:local	exon	484727	484809	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000019.1	exonerate:protein2genome:local	splice5	484810	484811	.	+	.	intron_id 6 ; splice_site "GT"
+JAHKQU010000019.1	exonerate:protein2genome:local	intron	484810	485913	.	+	.	intron_id 6
+JAHKQU010000019.1	exonerate:protein2genome:local	splice3	485912	485913	.	+	.	intron_id 5 ; splice_site "AG"
+JAHKQU010000019.1	exonerate:protein2genome:local	cds	485914	486019	.	+	.	
+JAHKQU010000019.1	exonerate:protein2genome:local	exon	485914	486019	.	+	.	insertions 0 ; deletions 0 ; identity 100.00 ; similarity 100.00
+JAHKQU010000019.1	exonerate:protein2genome:local	similarity	479414	486019	1866	+	.	alignment_id 0 ; Query NeoCorn|UV1 ; Align 479414 1 225 ; Align 480455 77 207 ; Align 481297 147 135 ; Align 482623 193 198 ; Align 483849 260 150 ; Align 484727 310 81 ; Align 485915 338 105
+# --- END OF GFF DUMP ---
