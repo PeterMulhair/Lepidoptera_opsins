@@ -13,7 +13,7 @@ noctuid_list = ['AbrTril', 'AbrTrip', 'DiaChry', 'AutGamm', 'AutPulc', 'ProPyga'
 
 
 gene_prune = ['TinTrin_LWS1']
-tree = Tree('lep_opsins.mft.contree.rooted')
+tree = Tree('lep_opsins_genetree.nwk')
 for node in tree.traverse("postorder"):
     if node.is_leaf():
         sp = node.name.split('_')[0]
