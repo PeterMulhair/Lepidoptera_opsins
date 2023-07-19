@@ -146,7 +146,7 @@ def hyphy(species):
         unix('pal2nal.pl results/FitMG94/' + args.gene + '/' + species + '/prot_align/' + species + '_lep_' + geneID + '_aln.fas results/FitMG94/' + args.gene + '/' + species + '/' + species + '_lep_' + geneID + '_nuc.fas >> results/FitMG94/' + args.gene + '/' + species + '/codon_align/' + species + '_lep_' + geneID + '_aln.fasta -output fasta', shell=True)
 
         ##Get gene trees with vespasian
-        subprocess.run("bash -c 'source activate vespasian && vespasian infer-gene-trees --warnings --progress results/FitMG94/" + args.gene + "/" + species + "/codon_align/ raw/lep_tree.nwk -o results/FitMG94/" + args.gene + "/" + species + "/gene-trees/ && source deactivate'", shell=True)
+        subprocess.run("bash -c 'source activate vespasian && vespasian infer-gene-trees --warnings --progress results/FitMG94/" + args.gene + "/" + species + "/codon_align/ data/lep_tree.nwk -o results/FitMG94/" + args.gene + "/" + species + "/gene-trees/ && source deactivate'", shell=True)
         
         ##Run hyphy with FitMG94 model
         subprocess.run("bash -c 'source activate hyphy && hyphy ~/bin/hyphy-analyses/FitMG94/FitMG94.bf --alignment results/FitMG94/" + args.gene + "/" + species + "/codon_align/" + species + "_lep_" + geneID + "_aln.fasta --tree results/FitMG94/" + args.gene + "/" + species + "/gene-trees/" + species + "_lep_" + geneID + "_aln.nwk --type local && source deactivate'", shell=True)
