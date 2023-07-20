@@ -1,0 +1,47 @@
+Molecule	gene	start	end	strand	direction	from	to
+MegAlbu	LRR_8	1	5	Forward	1	NA	NA
+MegAlbu	LRR_8	6	10	Forward	1	NA	NA
+MegAlbu	LWS2	11	15	Forward	1	NA	NA
+MegAlbu	AMP_synthetase	16	20	Forward	1	NA	NA
+MegAlbu	LRR_8	21	25	Forward	1	NA	NA
+MegAlbu	C-type_lectin	26	30	Forward	1	NA	NA
+MegAlbu	C-type_lectin	31	35	Forward	1	NA	NA
+HecDyso	LRR_8	1	5	Forward	1	NA	NA
+HecDyso	LWS2	6	10	Forward	1	NA	NA
+HecDyso	AMP_synthetase	11	15	Forward	1	NA	NA
+HecDyso	LRR_8	16	20	Forward	1	NA	NA
+HecDyso	C-type_lectin	21	25	Forward	1	NA	NA
+AutGamm	LRR_8	1	5	Forward	1	NA	NA
+AutGamm	LRR_8	6	10	Forward	1	NA	NA
+AutGamm	LWS2	11	15	Forward	1	NA	NA
+AutGamm	AMP_synthetase	16	20	Forward	1	NA	NA
+AutGamm	hypothetical	21	25	Forward	1	NA	NA
+AutGamm	LRR_8	26	30	Forward	1	NA	NA
+AutGamm	LRR_8	31	35	Forward	1	NA	NA
+AutGamm	Fork_head_domain	36	40	Forward	1	NA	NA
+LymMona	LRR_8	1	5	Forward	1	NA	NA
+LymMona	WW_domain	6	10	Forward	1	NA	NA
+LymMona	LRR_8	11	15	Forward	1	NA	NA
+LymMona	LWS2	16	20	Forward	1	NA	NA
+LymMona	AMP_synthetase	21	25	Forward	1	NA	NA
+LymMona	AMP_synthetase	26	30	Forward	1	NA	NA
+LymMona	hypothetical	31	35	Forward	1	NA	NA
+LymMona	hypothetical	36	40	Forward	1	NA	NA
+LymMona	hypothetical	41	45	Forward	1	NA	NA
+LymMona	hypothetical	46	50	Forward	1	NA	NA
+LymMona	hypothetical	51	55	Forward	1	NA	NA
+LymMona	LRR_8	56	60	Forward	1	NA	NA
+LymMona	hypothetical	61	65	Forward	1	NA	NA
+LymMona	LRR_8	66	70	Forward	1	NA	NA
+LymMona	Fork_head_domain	71	75	Forward	1	NA	NA
+OrgAnti	LRR_8	1	5	Forward	1	NA	NA
+OrgAnti	LRR_8	6	10	Forward	1	NA	NA
+OrgAnti	LWS2	11	15	Forward	1	NA	NA
+OrgAnti	AMP_synthetase	16	20	Forward	1	NA	NA
+OrgAnti	Willebrand_factor	21	25	Forward	1	NA	NA
+OrgAnti	LRR_8	26	30	Forward	1	NA	NA
+OrgAnti	LRR_8	31	35	Forward	1	NA	NA
+OrgAnti	Fork_head_domain	36	40	Forward	1	NA	NA
+
+
+
