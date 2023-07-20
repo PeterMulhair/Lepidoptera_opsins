@@ -19,3 +19,8 @@ Genomes used in this analysis from the [Darwin Tree of Life project](https://www
 ---
 
 Figure here
+<div align="center">
+<p align="center">
+<img src="https://github.com/PeterMulhair/Lepidoptera_opsins/blob/main/00_all_opsins/lep_species_tree.png" width="700" height="350">
+</p>
+</div>
