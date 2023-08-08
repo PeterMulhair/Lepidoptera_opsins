@@ -12,6 +12,8 @@ X
 
 * `01_LWS2_opsin/` contains code and data to run selective pressure analyses and expression analyses on the LWS2 opsin gene in Noctuoidea. This includes protein and nucleotide fasta files for opsin genes and all code required to reproduce plots from Figure 2. It also contains files on LWS2 synteny in each family and code used to plot synteny blocks (using [gggenes](https://github.com/wilkox/gggenes/tree/master)).
 
+* `02_selective_pressure_analyses/` contains code and data required to run selective pressure analyses on all opsin genes and compare between day-flying and night-flying lineages. This includes all alignemnts and phylogenies required to run the analysis, as well as the code used. All analyses were carried out with [hyphy](https://github.com/veg/hyphy) or [vespasian](https://github.com/bede/vespasian).
+
 ---
 
 Genomes used in this analysis from the [Darwin Tree of Life project](https://www.darwintreeoflife.org/) can be downloaded by using code from [here](https://github.com/PeterMulhair/DToL_insects)
