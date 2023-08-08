@@ -1,0 +1,16 @@
+tree	null_model	alt_model	null_lnl	alt_lnl	lrt	p	critical_value	null_rejected
+lep_blue_nucl_aln_trim	m0	m3Discrtk2	-74572.195048	-72081.192724	4982.004648000002	0.0	5.991	True
+lep_blue_nucl_aln_trim	m1Neutral	m2Selection	-74022.753677	-74022.753677	0.0	1.0	5.991	False
+lep_blue_nucl_aln_trim	m3Discrtk2	m3Discrtk3	-72081.192724	-71735.244734	345.947989999986		1.0	True
+lep_blue_nucl_aln_trim	m7	m8	-71523.946903	-71523.950673	-0.007539999991422519	1.0	5.991	False
+lep_blue_nucl_aln_trim	m8a	m8	-71523.950673	-71523.950673	0.0	1.0	2.706	False
+lep_blue_nucl_aln_trim_IncMasc	m1Neutral	modelA	-74022.753677	-74006.988006	31.53134200000204	1.422512466757784e-07	5.991	True
+lep_blue_nucl_aln_trim_IncMasc	modelAnull	modelA	-74014.293596	-74006.988006	14.611180000007153	0.0006717730484503284	3.841	True
+lep_blue_nucl_aln_trim_NemSwae	m1Neutral	modelA	-74022.753677	-74012.026004	21.455346000002464	2.1929605165598466e-05	5.991	True
+lep_blue_nucl_aln_trim_NemSwae	modelAnull	modelA	-74015.770414	-74012.026004	7.488819999998668	0.023649578183422722	3.841	True
+lep_blue_nucl_aln_trim_ZygFili	m1Neutral	modelA	-74022.753677	-74017.484546	10.538261999987299	0.00514808231334078	5.991	True
+lep_blue_nucl_aln_trim_ZygFili	modelAnull	modelA	-74019.584936	-74017.484546	4.200779999984661	0.12240867955850285	3.841	True
+lep_blue_nucl_aln_trim_papilionoidea	m1Neutral	modelA	-74022.753677	-74021.847218	1.8129180000105407	0.40395208885151257	5.991	False
+lep_blue_nucl_aln_trim_papilionoidea	modelAnull	modelA	-74021.915911	-74021.847218	0.1373860000167042	0.9336132553482427	3.841	False
+lep_blue_nucl_aln_trim_sesiidae	m1Neutral	modelA	-74022.753677	-74014.296878	16.913598000013735	0.0002124510391797462	5.991	True
+lep_blue_nucl_aln_trim_sesiidae	modelAnull	modelA	-74014.541123	-74014.296878	0.48849000001791865	0.7832957032979527	3.841	False

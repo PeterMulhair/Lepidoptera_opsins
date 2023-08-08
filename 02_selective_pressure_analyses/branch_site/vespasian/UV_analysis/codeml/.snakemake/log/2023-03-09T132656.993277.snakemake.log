@@ -1,0 +1,772 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 20
+Rules claiming more threads will be scaled down.
+Job stats:
+job      count    min threads    max threads
+-----  -------  -------------  -------------
+all          1              1              1
+run         64              1              1
+total       65              1              1
+
+Select jobs to execute...
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_NemSwae/modelAnull/Omega1/out
+    jobid: 35
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_NemSwae/modelAnull/Omega1
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_IncMasc/modelAnull/Omega1/out
+    jobid: 50
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_IncMasc/modelAnull/Omega1
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m8/Omega0/out
+    jobid: 20
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m8/Omega0
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_EucMixx/modelA/Omega10/out
+    jobid: 5
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_EucMixx/modelA/Omega10
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m0/Omega10/out
+    jobid: 13
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m0/Omega10
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m1Neutral/Omega0/out
+    jobid: 28
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m1Neutral/Omega0
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_sesiidae/modelA/Omega2/out
+    jobid: 43
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_sesiidae/modelA/Omega2
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_papilionoidea/modelA/Omega2/out
+    jobid: 58
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_papilionoidea/modelA/Omega2
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_sesiidae/modelA/Omega10/out
+    jobid: 44
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_sesiidae/modelA/Omega10
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk2/Omega0/out
+    jobid: 7
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk2/Omega0
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_NemSwae/modelA/Omega0/out
+    jobid: 37
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_NemSwae/modelA/Omega0
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_IncMasc/modelA/Omega0/out
+    jobid: 52
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_IncMasc/modelA/Omega0
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_papilionoidea/modelA/Omega10/out
+    jobid: 59
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_papilionoidea/modelA/Omega10
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m8/Omega10/out
+    jobid: 22
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m8/Omega10
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk2/Omega1/out
+    jobid: 6
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk2/Omega1
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m8/Omega2/out
+    jobid: 21
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m8/Omega2
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_NemSwae/modelA/Omega1/out
+    jobid: 36
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_NemSwae/modelA/Omega1
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_IncMasc/modelA/Omega1/out
+    jobid: 51
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_IncMasc/modelA/Omega1
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m8a/Omega1/out
+    jobid: 14
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m8a/Omega1
+    resources: tmpdir=/tmp
+
+
+[Thu Mar  9 13:26:57 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m1Neutral/Omega2/out
+    jobid: 29
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m1Neutral/Omega2
+    resources: tmpdir=/tmp
+
+[Sat Mar 11 12:19:13 2023]
+Finished job 13.
+1 of 65 steps (2%) done
+Select jobs to execute...
+
+[Sat Mar 11 12:19:13 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m0/Omega2/out
+    jobid: 12
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m0/Omega2
+    resources: tmpdir=/tmp
+
+[Sun Mar 12 04:13:31 2023]
+Finished job 6.
+2 of 65 steps (3%) done
+Select jobs to execute...
+
+[Sun Mar 12 04:13:31 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk3/Omega1/out
+    jobid: 15
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk3/Omega1
+    resources: tmpdir=/tmp
+
+[Sun Mar 12 04:56:54 2023]
+Finished job 28.
+3 of 65 steps (5%) done
+Select jobs to execute...
+
+[Sun Mar 12 04:56:54 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m1Neutral/Omega10/out
+    jobid: 30
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m1Neutral/Omega10
+    resources: tmpdir=/tmp
+
+[Sun Mar 12 05:33:31 2023]
+Finished job 7.
+4 of 65 steps (6%) done
+Select jobs to execute...
+
+[Sun Mar 12 05:33:31 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_ZygFili/modelAnull/Omega1/out
+    jobid: 45
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_ZygFili/modelAnull/Omega1
+    resources: tmpdir=/tmp
+
+[Sun Mar 12 05:51:38 2023]
+Finished job 29.
+5 of 65 steps (8%) done
+Select jobs to execute...
+
+[Sun Mar 12 05:51:38 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_microterigidae/modelAnull/Omega1/out
+    jobid: 60
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_microterigidae/modelAnull/Omega1
+    resources: tmpdir=/tmp
+
+[Sun Mar 12 16:26:18 2023]
+Finished job 12.
+6 of 65 steps (9%) done
+Select jobs to execute...
+
+[Sun Mar 12 16:26:18 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_papilionoidea/modelA/Omega0/out
+    jobid: 57
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_papilionoidea/modelA/Omega0
+    resources: tmpdir=/tmp
+
+[Wed Mar 15 04:39:59 2023]
+Finished job 43.
+7 of 65 steps (11%) done
+Select jobs to execute...
+
+[Wed Mar 15 04:39:59 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m2Selection/Omega1/out
+    jobid: 23
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m2Selection/Omega1
+    resources: tmpdir=/tmp
+
+[Wed Mar 15 04:43:40 2023]
+Finished job 30.
+8 of 65 steps (12%) done
+Select jobs to execute...
+
+[Wed Mar 15 04:43:40 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_NemSwae/modelA/Omega2/out
+    jobid: 38
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_NemSwae/modelA/Omega2
+    resources: tmpdir=/tmp
+
+[Wed Mar 15 09:47:50 2023]
+Finished job 35.
+9 of 65 steps (14%) done
+Select jobs to execute...
+
+[Wed Mar 15 09:47:50 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_IncMasc/modelA/Omega2/out
+    jobid: 53
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_IncMasc/modelA/Omega2
+    resources: tmpdir=/tmp
+
+[Wed Mar 15 12:31:04 2023]
+Finished job 36.
+10 of 65 steps (15%) done
+Select jobs to execute...
+
+[Wed Mar 15 12:31:04 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk2/Omega2/out
+    jobid: 8
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk2/Omega2
+    resources: tmpdir=/tmp
+
+[Wed Mar 15 16:19:02 2023]
+Finished job 44.
+11 of 65 steps (17%) done
+Select jobs to execute...
+
+[Wed Mar 15 16:19:02 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m7/Omega1/out
+    jobid: 31
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m7/Omega1
+    resources: tmpdir=/tmp
+
+[Wed Mar 15 21:53:17 2023]
+Finished job 5.
+12 of 65 steps (18%) done
+Select jobs to execute...
+
+[Wed Mar 15 21:53:17 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk3/Omega0/out
+    jobid: 16
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk3/Omega0
+    resources: tmpdir=/tmp
+
+[Thu Mar 16 01:08:38 2023]
+Finished job 37.
+13 of 65 steps (20%) done
+Select jobs to execute...
+
+[Thu Mar 16 01:08:38 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_ZygFili/modelA/Omega1/out
+    jobid: 46
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_ZygFili/modelA/Omega1
+    resources: tmpdir=/tmp
+
+[Thu Mar 16 02:43:03 2023]
+Finished job 51.
+14 of 65 steps (22%) done
+Select jobs to execute...
+
+[Thu Mar 16 02:43:03 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_microterigidae/modelA/Omega1/out
+    jobid: 61
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_microterigidae/modelA/Omega1
+    resources: tmpdir=/tmp
+
+[Thu Mar 16 16:01:12 2023]
+Finished job 50.
+15 of 65 steps (23%) done
+Select jobs to execute...
+
+[Thu Mar 16 16:01:12 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_EucMixx/modelAnull/Omega1/out
+    jobid: 1
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_EucMixx/modelAnull/Omega1
+    resources: tmpdir=/tmp
+
+[Thu Mar 16 19:45:02 2023]
+Finished job 59.
+16 of 65 steps (25%) done
+Select jobs to execute...
+
+[Thu Mar 16 19:45:02 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_sesiidae/modelA/Omega0/out
+    jobid: 42
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_sesiidae/modelA/Omega0
+    resources: tmpdir=/tmp
+
+[Fri Mar 17 03:05:15 2023]
+Finished job 52.
+17 of 65 steps (26%) done
+Select jobs to execute...
+
+[Fri Mar 17 03:05:15 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_IncMasc/modelA/Omega10/out
+    jobid: 54
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_IncMasc/modelA/Omega10
+    resources: tmpdir=/tmp
+
+[Fri Mar 17 13:45:45 2023]
+Finished job 58.
+18 of 65 steps (28%) done
+Select jobs to execute...
+
+[Fri Mar 17 13:45:45 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m2Selection/Omega0/out
+    jobid: 24
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m2Selection/Omega0
+    resources: tmpdir=/tmp
+
+[Fri Mar 17 17:29:43 2023]
+Finished job 60.
+19 of 65 steps (29%) done
+Select jobs to execute...
+
+[Fri Mar 17 17:29:43 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_NemSwae/modelA/Omega10/out
+    jobid: 39
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_NemSwae/modelA/Omega10
+    resources: tmpdir=/tmp
+
+[Fri Mar 17 18:27:30 2023]
+Finished job 15.
+20 of 65 steps (31%) done
+Select jobs to execute...
+
+[Fri Mar 17 18:27:30 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk2/Omega10/out
+    jobid: 9
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk2/Omega10
+    resources: tmpdir=/tmp
+
+[Sat Mar 18 04:57:40 2023]
+Finished job 8.
+21 of 65 steps (32%) done
+Select jobs to execute...
+
+[Sat Mar 18 04:57:40 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_EucMixx/modelA/Omega1/out
+    jobid: 2
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_EucMixx/modelA/Omega1
+    resources: tmpdir=/tmp
+
+[Sat Mar 18 20:11:22 2023]
+Finished job 45.
+22 of 65 steps (34%) done
+Select jobs to execute...
+
+[Sat Mar 18 20:11:22 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk3/Omega2/out
+    jobid: 17
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk3/Omega2
+    resources: tmpdir=/tmp
+
+[Sun Mar 19 04:50:35 2023]
+Finished job 23.
+23 of 65 steps (35%) done
+Select jobs to execute...
+
+[Sun Mar 19 04:50:35 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m7/Omega0/out
+    jobid: 32
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m7/Omega0
+    resources: tmpdir=/tmp
+
+[Sun Mar 19 21:41:11 2023]
+Finished job 16.
+24 of 65 steps (37%) done
+Select jobs to execute...
+
+[Sun Mar 19 21:41:11 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_ZygFili/modelA/Omega0/out
+    jobid: 47
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_ZygFili/modelA/Omega0
+    resources: tmpdir=/tmp
+
+[Mon Mar 20 12:57:19 2023]
+Finished job 9.
+25 of 65 steps (38%) done
+Select jobs to execute...
+
+[Mon Mar 20 12:57:19 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m7/Omega2/out
+    jobid: 33
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m7/Omega2
+    resources: tmpdir=/tmp
+
+[Tue Mar 21 11:55:37 2023]
+Finished job 38.
+26 of 65 steps (40%) done
+Select jobs to execute...
+
+[Tue Mar 21 11:55:37 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m0/Omega0/out
+    jobid: 11
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m0/Omega0
+    resources: tmpdir=/tmp
+
+[Tue Mar 21 12:15:11 2023]
+Finished job 57.
+27 of 65 steps (42%) done
+Select jobs to execute...
+
+[Tue Mar 21 12:15:11 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m2Selection/Omega10/out
+    jobid: 26
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m2Selection/Omega10
+    resources: tmpdir=/tmp
+
+[Tue Mar 21 14:23:30 2023]
+Finished job 24.
+28 of 65 steps (43%) done
+Select jobs to execute...
+
+[Tue Mar 21 14:23:30 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_sesiidae/modelA/Omega1/out
+    jobid: 41
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_sesiidae/modelA/Omega1
+    resources: tmpdir=/tmp
+
+[Tue Mar 21 15:57:09 2023]
+Finished job 42.
+29 of 65 steps (45%) done
+Select jobs to execute...
+
+[Tue Mar 21 15:57:09 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_papilionoidea/modelA/Omega1/out
+    jobid: 56
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_papilionoidea/modelA/Omega1
+    resources: tmpdir=/tmp
+
+[Tue Mar 21 16:05:32 2023]
+Finished job 61.
+30 of 65 steps (46%) done
+Select jobs to execute...
+
+[Tue Mar 21 16:05:32 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_microterigidae/modelA/Omega0/out
+    jobid: 62
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_microterigidae/modelA/Omega0
+    resources: tmpdir=/tmp
+
+[Tue Mar 21 18:42:18 2023]
+Finished job 46.
+31 of 65 steps (48%) done
+Select jobs to execute...
+
+[Tue Mar 21 18:42:18 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_EucMixx/modelA/Omega2/out
+    jobid: 4
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_EucMixx/modelA/Omega2
+    resources: tmpdir=/tmp
+
+[Tue Mar 21 20:25:25 2023]
+Finished job 53.
+32 of 65 steps (49%) done
+Select jobs to execute...
+
+[Tue Mar 21 20:25:25 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m8/Omega1/out
+    jobid: 19
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m8/Omega1
+    resources: tmpdir=/tmp
+
+[Tue Mar 21 20:52:42 2023]
+Finished job 1.
+33 of 65 steps (51%) done
+Select jobs to execute...
+
+[Tue Mar 21 20:52:42 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m7/Omega10/out
+    jobid: 34
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m7/Omega10
+    resources: tmpdir=/tmp
+
+[Wed Mar 22 12:49:49 2023]
+Finished job 11.
+34 of 65 steps (52%) done
+Select jobs to execute...
+
+[Wed Mar 22 12:49:49 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_ZygFili/modelA/Omega10/out
+    jobid: 49
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_ZygFili/modelA/Omega10
+    resources: tmpdir=/tmp
+
+[Thu Mar 23 06:17:18 2023]
+Finished job 54.
+35 of 65 steps (54%) done
+Select jobs to execute...
+
+[Thu Mar 23 06:17:18 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_microterigidae/modelA/Omega10/out
+    jobid: 64
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_microterigidae/modelA/Omega10
+    resources: tmpdir=/tmp
+
+[Thu Mar 23 10:43:59 2023]
+Finished job 2.
+36 of 65 steps (55%) done
+Select jobs to execute...
+
+[Thu Mar 23 10:43:59 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m2Selection/Omega2/out
+    jobid: 25
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m2Selection/Omega2
+    resources: tmpdir=/tmp
+
+[Thu Mar 23 18:06:34 2023]
+Finished job 39.
+37 of 65 steps (57%) done
+Select jobs to execute...
+
+[Thu Mar 23 18:06:34 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m0/Omega1/out
+    jobid: 10
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m0/Omega1
+    resources: tmpdir=/tmp
+
+[Fri Mar 24 11:10:46 2023]
+Finished job 17.
+38 of 65 steps (58%) done
+Select jobs to execute...
+
+[Fri Mar 24 11:10:46 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_EucMixx/modelA/Omega0/out
+    jobid: 3
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_EucMixx/modelA/Omega0
+    resources: tmpdir=/tmp
+
+[Fri Mar 24 16:02:55 2023]
+Finished job 47.
+39 of 65 steps (60%) done
+Select jobs to execute...
+
+[Fri Mar 24 16:02:55 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_microterigidae/modelA/Omega2/out
+    jobid: 63
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_microterigidae/modelA/Omega2
+    resources: tmpdir=/tmp
+
+[Fri Mar 24 17:50:42 2023]
+Finished job 10.
+40 of 65 steps (62%) done
+Select jobs to execute...
+
+[Fri Mar 24 17:50:42 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk3/Omega10/out
+    jobid: 18
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk3/Omega10
+    resources: tmpdir=/tmp
+
+[Sat Mar 25 09:10:17 2023]
+Finished job 41.
+41 of 65 steps (63%) done
+Select jobs to execute...
+
+[Sat Mar 25 09:10:17 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m1Neutral/Omega1/out
+    jobid: 27
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m1Neutral/Omega1
+    resources: tmpdir=/tmp
+
+[Sat Mar 25 10:37:52 2023]
+Finished job 26.
+42 of 65 steps (65%) done
+Select jobs to execute...
+
+[Sat Mar 25 10:37:52 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_ZygFili/modelA/Omega2/out
+    jobid: 48
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_ZygFili/modelA/Omega2
+    resources: tmpdir=/tmp
+
+[Sat Mar 25 17:32:58 2023]
+Finished job 62.
+43 of 65 steps (66%) done
+Select jobs to execute...
+
+[Sat Mar 25 17:32:58 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_papilionoidea/modelAnull/Omega1/out
+    jobid: 55
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_papilionoidea/modelAnull/Omega1
+    resources: tmpdir=/tmp
+
+[Sat Mar 25 22:21:11 2023]
+Finished job 4.
+44 of 65 steps (68%) done
+Select jobs to execute...
+
+[Sat Mar 25 22:21:11 2023]
+rule run:
+    output: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_sesiidae/modelAnull/Omega1/out
+    jobid: 40
+    wildcards: od=lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_sesiidae/modelAnull/Omega1
+    resources: tmpdir=/tmp
+
+[Sun Mar 26 02:13:27 2023]
+Finished job 20.
+45 of 65 steps (69%) done
+[Sun Mar 26 04:17:18 2023]
+Finished job 25.
+46 of 65 steps (71%) done
+[Sun Mar 26 07:28:29 2023]
+Finished job 49.
+47 of 65 steps (72%) done
+[Mon Mar 27 04:42:13 2023]
+Finished job 56.
+48 of 65 steps (74%) done
+[Mon Mar 27 05:46:18 2023]
+Finished job 27.
+49 of 65 steps (75%) done
+[Mon Mar 27 10:30:38 2023]
+Finished job 64.
+50 of 65 steps (77%) done
+[Tue Mar 28 06:58:53 2023]
+Finished job 63.
+51 of 65 steps (78%) done
+[Tue Mar 28 15:00:30 2023]
+Finished job 3.
+52 of 65 steps (80%) done
+[Wed Mar 29 00:19:39 2023]
+Finished job 18.
+53 of 65 steps (82%) done
+[Wed Mar 29 14:04:54 2023]
+Finished job 40.
+54 of 65 steps (83%) done
+[Wed Mar 29 17:34:59 2023]
+Finished job 48.
+55 of 65 steps (85%) done
+[Wed Mar 29 23:16:34 2023]
+Finished job 55.
+56 of 65 steps (86%) done
+[Thu Mar 30 20:12:49 2023]
+Finished job 22.
+57 of 65 steps (88%) done
+[Sat Apr  1 16:11:39 2023]
+Finished job 31.
+58 of 65 steps (89%) done
+[Sat Apr  1 18:41:02 2023]
+Finished job 21.
+59 of 65 steps (91%) done
+[Mon Apr  3 20:34:46 2023]
+Finished job 32.
+60 of 65 steps (92%) done
+[Tue Apr  4 20:48:12 2023]
+Finished job 33.
+61 of 65 steps (94%) done
+[Thu Apr  6 01:40:45 2023]
+Finished job 34.
+62 of 65 steps (95%) done
+[Sat Apr 22 14:28:52 2023]
+Finished job 14.
+63 of 65 steps (97%) done
+[Sun Apr 23 11:15:28 2023]
+Finished job 19.
+64 of 65 steps (98%) done
+Select jobs to execute...
+
+[Sun Apr 23 11:15:28 2023]
+localrule all:
+    input: lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_EucMixx/modelAnull/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_EucMixx/modelA/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_EucMixx/modelA/Omega0/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_EucMixx/modelA/Omega2/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_EucMixx/modelA/Omega10/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk2/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk2/Omega0/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk2/Omega2/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk2/Omega10/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m0/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m0/Omega0/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m0/Omega2/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m0/Omega10/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m8a/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk3/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk3/Omega0/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk3/Omega2/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m3Discrtk3/Omega10/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m8/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m8/Omega0/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m8/Omega2/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m8/Omega10/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m2Selection/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m2Selection/Omega0/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m2Selection/Omega2/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m2Selection/Omega10/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m1Neutral/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m1Neutral/Omega0/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m1Neutral/Omega2/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m1Neutral/Omega10/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m7/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m7/Omega0/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m7/Omega2/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename/m7/Omega10/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_NemSwae/modelAnull/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_NemSwae/modelA/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_NemSwae/modelA/Omega0/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_NemSwae/modelA/Omega2/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_NemSwae/modelA/Omega10/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_sesiidae/modelAnull/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_sesiidae/modelA/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_sesiidae/modelA/Omega0/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_sesiidae/modelA/Omega2/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_sesiidae/modelA/Omega10/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_ZygFili/modelAnull/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_ZygFili/modelA/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_ZygFili/modelA/Omega0/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_ZygFili/modelA/Omega2/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_ZygFili/modelA/Omega10/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_IncMasc/modelAnull/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_IncMasc/modelA/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_IncMasc/modelA/Omega0/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_IncMasc/modelA/Omega2/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_IncMasc/modelA/Omega10/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_papilionoidea/modelAnull/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_papilionoidea/modelA/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_papilionoidea/modelA/Omega0/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_papilionoidea/modelA/Omega2/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_papilionoidea/modelA/Omega10/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_microterigidae/modelAnull/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_microterigidae/modelA/Omega1/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_microterigidae/modelA/Omega0/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_microterigidae/modelA/Omega2/out, lep_UV_nucl_aln_trim_rename/lep_UV_nucl_aln_trim_rename_microterigidae/modelA/Omega10/out
+    jobid: 0
+    resources: tmpdir=/tmp
+
+[Sun Apr 23 11:15:28 2023]
+Finished job 0.
+65 of 65 steps (100%) done
+Complete log: /home/zoo/zool2500/tree_of_life/raw/updated_DToL_data/opsin_genes/selection_test/results/UV/single_copy_genes/vespasian/branch_site_model/species_tree_run/codeml/.snakemake/log/2023-03-09T132656.993277.snakemake.log

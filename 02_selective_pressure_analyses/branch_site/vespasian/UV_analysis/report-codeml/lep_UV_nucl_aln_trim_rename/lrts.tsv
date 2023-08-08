@@ -1,0 +1,20 @@
+tree	null_model	alt_model	null_lnl	alt_lnl	lrt	p	critical_value	null_rejected
+lep_UV_nucl_aln_trim_rename	m0	m3Discrtk2	-76259.69686	-73839.203915	4840.985889999982	0.0	5.991	True
+lep_UV_nucl_aln_trim_rename	m1Neutral	m2Selection	-75817.968012	-75817.968011	1.9999861251562834e-06	0.9999990000074375	5.991	False
+lep_UV_nucl_aln_trim_rename	m3Discrtk2	m3Discrtk3	-73839.203915	-73503.078641	336.12527400000545		1.0	True
+lep_UV_nucl_aln_trim_rename	m7	m8	-73351.897235	-73351.900944	-0.0074179999937769026	1.0	5.991	False
+lep_UV_nucl_aln_trim_rename	m8a	m8	-73351.900945	-73351.900944	2.00001522898674e-06	0.9999989999928856	2.706	False
+lep_UV_nucl_aln_trim_rename_EucMixx	m1Neutral	modelA	-75817.968012	-75808.474272	18.987479999981588	7.532187204044264e-05	5.991	True
+lep_UV_nucl_aln_trim_rename_EucMixx	modelAnull	modelA	-75809.872672	-75808.474272	2.7967999999818858	0.24699183489867482	3.841	False
+lep_UV_nucl_aln_trim_rename_IncMasc	m1Neutral	modelA	-75817.968012	-75797.578899	40.7782259999949	1.3967566032795085e-09	5.991	True
+lep_UV_nucl_aln_trim_rename_IncMasc	modelAnull	modelA	-75805.190336	-75797.578899	15.222873999999138	0.0004947603767390524	3.841	True
+lep_UV_nucl_aln_trim_rename_NemSwae	m1Neutral	modelA	-75817.968012	-75803.55164	28.832743999984814	5.48339070258426e-07	5.991	True
+lep_UV_nucl_aln_trim_rename_NemSwae	modelAnull	modelA	-75804.817529	-75803.55164	2.531778000004124	0.28198849690245165	3.841	False
+lep_UV_nucl_aln_trim_rename_ZygFili	m1Neutral	modelA	-75817.968012	-75816.282144	3.371736000000965	0.18528353602787834	5.991	False
+lep_UV_nucl_aln_trim_rename_ZygFili	modelAnull	modelA	-75816.610155	-75816.282144	0.6560220000101253	0.7203550957520195	3.841	False
+lep_UV_nucl_aln_trim_rename_microterigidae	m1Neutral	modelA	-75817.968012	-75817.968011	1.9999861251562834e-06	0.9999990000074375	5.991	False
+lep_UV_nucl_aln_trim_rename_microterigidae	modelAnull	modelA	-75817.968012	-75817.968011	1.9999861251562834e-06	0.9999990000074375	3.841	False
+lep_UV_nucl_aln_trim_rename_papilionoidea	m1Neutral	modelA	-75817.968012	-75815.266622	5.402780000003986	0.06711216197072241	5.991	False
+lep_UV_nucl_aln_trim_rename_papilionoidea	modelAnull	modelA	-75815.325579	-75815.266622	0.11791400000220165	0.9427473064186807	3.841	False
+lep_UV_nucl_aln_trim_rename_sesiidae	m1Neutral	modelA	-75817.968012	-75809.352368	17.23128799998085	0.00018124805415377566	5.991	True
+lep_UV_nucl_aln_trim_rename_sesiidae	modelAnull	modelA	-75809.932629	-75809.352368	1.1605219999910332	0.5597522521629973	3.841	False

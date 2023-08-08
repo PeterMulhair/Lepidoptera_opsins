@@ -1,0 +1,682 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 50
+Rules claiming more threads will be scaled down.
+Job stats:
+job      count    min threads    max threads
+-----  -------  -------------  -------------
+all          1              1              1
+run         59              1              1
+total       60              1              1
+
+Select jobs to execute...
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_IncMasc/modelA/Omega1/out
+    jobid: 7
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_IncMasc/modelA/Omega1
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m1Neutral/Omega1/out
+    jobid: 37
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m1Neutral/Omega1
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_sesiidae/modelA/Omega0/out
+    jobid: 52
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_sesiidae/modelA/Omega0
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m0/Omega2/out
+    jobid: 22
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m0/Omega2
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_ZygFili/modelA/Omega10/out
+    jobid: 15
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_ZygFili/modelA/Omega10
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m8/Omega0/out
+    jobid: 30
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m8/Omega0
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_papilionoidea/modelAnull/Omega1/out
+    jobid: 45
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_papilionoidea/modelAnull/Omega1
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_IncMasc/modelA/Omega0/out
+    jobid: 8
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_IncMasc/modelA/Omega0
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m0/Omega10/out
+    jobid: 23
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m0/Omega10
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m1Neutral/Omega0/out
+    jobid: 38
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m1Neutral/Omega0
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_sesiidae/modelA/Omega2/out
+    jobid: 53
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_sesiidae/modelA/Omega2
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_papilionoidea/modelA/Omega1/out
+    jobid: 46
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_papilionoidea/modelA/Omega1
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m8/Omega2/out
+    jobid: 31
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m8/Omega2
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk2/Omega1/out
+    jobid: 16
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk2/Omega1
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_NemSwae/modelAnull/Omega1/out
+    jobid: 1
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_NemSwae/modelAnull/Omega1
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_sesiidae/modelA/Omega10/out
+    jobid: 54
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_sesiidae/modelA/Omega10
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_IncMasc/modelA/Omega2/out
+    jobid: 9
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_IncMasc/modelA/Omega2
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m8a/Omega1/out
+    jobid: 24
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m8a/Omega1
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m1Neutral/Omega2/out
+    jobid: 39
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m1Neutral/Omega2
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_NemSwae/modelA/Omega1/out
+    jobid: 2
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_NemSwae/modelA/Omega1
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk2/Omega0/out
+    jobid: 17
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk2/Omega0
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:37:59 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m8/Omega10/out
+    jobid: 32
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m8/Omega10
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_papilionoidea/modelA/Omega0/out
+    jobid: 47
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_papilionoidea/modelA/Omega0
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_IncMasc/modelA/Omega10/out
+    jobid: 10
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_IncMasc/modelA/Omega10
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk3/Omega1/out
+    jobid: 25
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk3/Omega1
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m1Neutral/Omega10/out
+    jobid: 40
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m1Neutral/Omega10
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_EucMixx/modelAnull/Omega1/out
+    jobid: 55
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_EucMixx/modelAnull/Omega1
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk2/Omega2/out
+    jobid: 18
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk2/Omega2
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_NemSwae/modelA/Omega0/out
+    jobid: 3
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_NemSwae/modelA/Omega0
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m2Selection/Omega1/out
+    jobid: 33
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m2Selection/Omega1
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_papilionoidea/modelA/Omega2/out
+    jobid: 48
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_papilionoidea/modelA/Omega2
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_ZygFili/modelAnull/Omega1/out
+    jobid: 11
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_ZygFili/modelAnull/Omega1
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk3/Omega0/out
+    jobid: 26
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk3/Omega0
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m7/Omega1/out
+    jobid: 41
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m7/Omega1
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_EucMixx/modelA/Omega1/out
+    jobid: 56
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_EucMixx/modelA/Omega1
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_NemSwae/modelA/Omega2/out
+    jobid: 4
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_NemSwae/modelA/Omega2
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk2/Omega10/out
+    jobid: 19
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk2/Omega10
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m2Selection/Omega0/out
+    jobid: 34
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m2Selection/Omega0
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_papilionoidea/modelA/Omega10/out
+    jobid: 49
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_papilionoidea/modelA/Omega10
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_ZygFili/modelA/Omega1/out
+    jobid: 12
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_ZygFili/modelA/Omega1
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk3/Omega2/out
+    jobid: 27
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk3/Omega2
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m7/Omega0/out
+    jobid: 42
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m7/Omega0
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_EucMixx/modelA/Omega0/out
+    jobid: 57
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_EucMixx/modelA/Omega0
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m0/Omega1/out
+    jobid: 20
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m0/Omega1
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_NemSwae/modelA/Omega10/out
+    jobid: 5
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_NemSwae/modelA/Omega10
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m2Selection/Omega2/out
+    jobid: 35
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m2Selection/Omega2
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_sesiidae/modelAnull/Omega1/out
+    jobid: 50
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_sesiidae/modelAnull/Omega1
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_EucMixx/modelA/Omega10/out
+    jobid: 59
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_EucMixx/modelA/Omega10
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_ZygFili/modelA/Omega0/out
+    jobid: 13
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_ZygFili/modelA/Omega0
+    resources: tmpdir=/tmp
+
+
+[Tue Apr  4 07:38:00 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m8/Omega1/out
+    jobid: 29
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m8/Omega1
+    resources: tmpdir=/tmp
+
+[Wed Apr  5 05:14:41 2023]
+Finished job 22.
+1 of 60 steps (2%) done
+Select jobs to execute...
+
+[Wed Apr  5 05:14:41 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_EucMixx/modelA/Omega2/out
+    jobid: 58
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_EucMixx/modelA/Omega2
+    resources: tmpdir=/tmp
+
+[Wed Apr  5 11:03:27 2023]
+Finished job 20.
+2 of 60 steps (3%) done
+Select jobs to execute...
+
+[Wed Apr  5 11:03:27 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m7/Omega2/out
+    jobid: 43
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m7/Omega2
+    resources: tmpdir=/tmp
+
+[Wed Apr  5 11:27:19 2023]
+Finished job 23.
+3 of 60 steps (5%) done
+Select jobs to execute...
+
+[Wed Apr  5 11:27:19 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk3/Omega10/out
+    jobid: 28
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk3/Omega10
+    resources: tmpdir=/tmp
+
+[Thu Apr  6 08:42:23 2023]
+Finished job 16.
+4 of 60 steps (7%) done
+Select jobs to execute...
+
+[Thu Apr  6 08:42:23 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_IncMasc/modelAnull/Omega1/out
+    jobid: 6
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_IncMasc/modelAnull/Omega1
+    resources: tmpdir=/tmp
+
+[Thu Apr  6 16:06:37 2023]
+Finished job 38.
+5 of 60 steps (8%) done
+Select jobs to execute...
+
+[Thu Apr  6 16:06:37 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m0/Omega0/out
+    jobid: 21
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m0/Omega0
+    resources: tmpdir=/tmp
+
+[Thu Apr  6 16:13:24 2023]
+Finished job 26.
+6 of 60 steps (10%) done
+Select jobs to execute...
+
+[Thu Apr  6 16:13:24 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_ZygFili/modelA/Omega2/out
+    jobid: 14
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_ZygFili/modelA/Omega2
+    resources: tmpdir=/tmp
+
+[Thu Apr  6 16:18:22 2023]
+Finished job 37.
+7 of 60 steps (12%) done
+Select jobs to execute...
+
+[Thu Apr  6 16:18:22 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m7/Omega10/out
+    jobid: 44
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m7/Omega10
+    resources: tmpdir=/tmp
+
+[Thu Apr  6 16:27:24 2023]
+Finished job 40.
+8 of 60 steps (13%) done
+Select jobs to execute...
+
+[Thu Apr  6 16:27:24 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m2Selection/Omega10/out
+    jobid: 36
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m2Selection/Omega10
+    resources: tmpdir=/tmp
+
+[Thu Apr  6 16:32:43 2023]
+Finished job 39.
+9 of 60 steps (15%) done
+Select jobs to execute...
+
+[Thu Apr  6 16:32:43 2023]
+rule run:
+    output: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_sesiidae/modelA/Omega1/out
+    jobid: 51
+    wildcards: od=lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_sesiidae/modelA/Omega1
+    resources: tmpdir=/tmp
+
+[Thu Apr  6 19:08:19 2023]
+Finished job 18.
+10 of 60 steps (17%) done
+[Thu Apr  6 20:14:08 2023]
+Finished job 17.
+11 of 60 steps (18%) done
+[Fri Apr  7 11:57:19 2023]
+Finished job 21.
+12 of 60 steps (20%) done
+[Fri Apr  7 17:13:19 2023]
+Finished job 27.
+13 of 60 steps (22%) done
+[Fri Apr  7 17:38:38 2023]
+Finished job 33.
+14 of 60 steps (23%) done
+[Fri Apr  7 19:03:07 2023]
+Finished job 34.
+15 of 60 steps (25%) done
+[Fri Apr  7 20:42:15 2023]
+Finished job 13.
+16 of 60 steps (27%) done
+[Fri Apr  7 21:07:38 2023]
+Finished job 25.
+17 of 60 steps (28%) done
+[Fri Apr  7 23:23:19 2023]
+Finished job 35.
+18 of 60 steps (30%) done
+[Sat Apr  8 00:34:16 2023]
+Finished job 19.
+19 of 60 steps (32%) done
+[Sat Apr  8 00:36:15 2023]
+Finished job 53.
+20 of 60 steps (33%) done
+[Sat Apr  8 04:58:56 2023]
+Finished job 55.
+21 of 60 steps (35%) done
+[Sat Apr  8 07:59:11 2023]
+Finished job 1.
+22 of 60 steps (37%) done
+[Sat Apr  8 09:36:17 2023]
+Finished job 9.
+23 of 60 steps (38%) done
+[Sat Apr  8 10:17:34 2023]
+Finished job 50.
+24 of 60 steps (40%) done
+[Sat Apr  8 12:42:31 2023]
+Finished job 57.
+25 of 60 steps (42%) done
+[Sat Apr  8 14:06:14 2023]
+Finished job 47.
+26 of 60 steps (43%) done
+[Sat Apr  8 15:30:59 2023]
+Finished job 49.
+27 of 60 steps (45%) done
+[Sat Apr  8 15:37:39 2023]
+Finished job 52.
+28 of 60 steps (47%) done
+[Sat Apr  8 17:29:12 2023]
+Finished job 56.
+29 of 60 steps (48%) done
+[Sat Apr  8 20:05:52 2023]
+Finished job 54.
+30 of 60 steps (50%) done
+[Sat Apr  8 20:41:02 2023]
+Finished job 46.
+31 of 60 steps (52%) done
+[Sat Apr  8 21:36:17 2023]
+Finished job 3.
+32 of 60 steps (53%) done
+[Sat Apr  8 21:39:34 2023]
+Finished job 10.
+33 of 60 steps (55%) done
+[Sat Apr  8 22:17:56 2023]
+Finished job 12.
+34 of 60 steps (57%) done
+[Sat Apr  8 22:30:20 2023]
+Finished job 59.
+35 of 60 steps (58%) done
+[Sat Apr  8 22:34:37 2023]
+Finished job 2.
+36 of 60 steps (60%) done
+[Sat Apr  8 23:11:10 2023]
+Finished job 4.
+37 of 60 steps (62%) done
+[Sun Apr  9 00:16:40 2023]
+Finished job 48.
+38 of 60 steps (63%) done
+[Sun Apr  9 02:57:43 2023]
+Finished job 11.
+39 of 60 steps (65%) done
+[Sun Apr  9 03:02:19 2023]
+Finished job 6.
+40 of 60 steps (67%) done
+[Sun Apr  9 03:16:25 2023]
+Finished job 8.
+41 of 60 steps (68%) done
+[Sun Apr  9 04:29:40 2023]
+Finished job 5.
+42 of 60 steps (70%) done
+[Sun Apr  9 05:26:34 2023]
+Finished job 45.
+43 of 60 steps (72%) done
+[Sun Apr  9 11:50:03 2023]
+Finished job 7.
+44 of 60 steps (73%) done
+[Sun Apr  9 13:31:35 2023]
+Finished job 15.
+45 of 60 steps (75%) done
+[Sun Apr  9 15:03:29 2023]
+Finished job 58.
+46 of 60 steps (77%) done
+[Sun Apr  9 15:54:06 2023]
+Finished job 36.
+47 of 60 steps (78%) done
+[Mon Apr 10 02:24:23 2023]
+Finished job 28.
+48 of 60 steps (80%) done
+[Mon Apr 10 10:41:30 2023]
+Finished job 14.
+49 of 60 steps (82%) done
+[Tue Apr 11 02:54:08 2023]
+Finished job 51.
+50 of 60 steps (83%) done
+[Sat Apr 15 13:48:48 2023]
+Finished job 30.
+51 of 60 steps (85%) done
+[Sun Apr 16 04:33:19 2023]
+Finished job 29.
+52 of 60 steps (87%) done
+[Sun Apr 16 09:44:03 2023]
+Finished job 24.
+53 of 60 steps (88%) done
+[Sun Apr 16 13:08:07 2023]
+Finished job 41.
+54 of 60 steps (90%) done
+[Sun Apr 16 15:24:48 2023]
+Finished job 42.
+55 of 60 steps (92%) done
+[Mon Apr 17 07:54:16 2023]
+Finished job 43.
+56 of 60 steps (93%) done
+[Tue Apr 18 01:30:08 2023]
+Finished job 44.
+57 of 60 steps (95%) done
+[Fri Apr 21 21:34:38 2023]
+Finished job 32.
+58 of 60 steps (97%) done
+[Mon Apr 24 00:23:46 2023]
+Finished job 31.
+59 of 60 steps (98%) done
+Select jobs to execute...
+
+[Mon Apr 24 00:23:46 2023]
+localrule all:
+    input: lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_NemSwae/modelAnull/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_NemSwae/modelA/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_NemSwae/modelA/Omega0/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_NemSwae/modelA/Omega2/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_NemSwae/modelA/Omega10/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_IncMasc/modelAnull/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_IncMasc/modelA/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_IncMasc/modelA/Omega0/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_IncMasc/modelA/Omega2/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_IncMasc/modelA/Omega10/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_ZygFili/modelAnull/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_ZygFili/modelA/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_ZygFili/modelA/Omega0/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_ZygFili/modelA/Omega2/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_ZygFili/modelA/Omega10/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk2/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk2/Omega0/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk2/Omega2/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk2/Omega10/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m0/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m0/Omega0/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m0/Omega2/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m0/Omega10/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m8a/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk3/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk3/Omega0/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk3/Omega2/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m3Discrtk3/Omega10/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m8/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m8/Omega0/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m8/Omega2/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m8/Omega10/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m2Selection/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m2Selection/Omega0/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m2Selection/Omega2/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m2Selection/Omega10/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m1Neutral/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m1Neutral/Omega0/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m1Neutral/Omega2/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m1Neutral/Omega10/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m7/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m7/Omega0/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m7/Omega2/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln/m7/Omega10/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_papilionoidea/modelAnull/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_papilionoidea/modelA/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_papilionoidea/modelA/Omega0/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_papilionoidea/modelA/Omega2/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_papilionoidea/modelA/Omega10/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_sesiidae/modelAnull/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_sesiidae/modelA/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_sesiidae/modelA/Omega0/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_sesiidae/modelA/Omega2/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_sesiidae/modelA/Omega10/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_EucMixx/modelAnull/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_EucMixx/modelA/Omega1/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_EucMixx/modelA/Omega0/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_EucMixx/modelA/Omega2/out, lep_LWS_nucl_trim_aln/lep_LWS_nucl_trim_aln_EucMixx/modelA/Omega10/out
+    jobid: 0
+    resources: tmpdir=/tmp
+
+[Mon Apr 24 00:23:46 2023]
+Finished job 0.
+60 of 60 steps (100%) done
+Complete log: /home/zoo/zool2500/tree_of_life/raw/updated_DToL_data/opsin_genes/selection_test/results/LWS/single_copy_genes/vespasian/branch_site_model/species_tree_run/codeml/.snakemake/log/2023-04-04T073759.536530.snakemake.log
