@@ -6,6 +6,8 @@ Each folder contains data and code required to recreate results and figures in e
 If you use any code or data from this repository please cite:
 X
 
+If you have any questions about any of the code or data please get in touch at peter.mulhair[at]biology.ox.ac.uk
+
 ## Instructions
 
 * `00_all_opsins/` contains files on the opsin genes present in each of the species. This include fasta files of the opsin protein sequences per species, as well as gff files per species with the location of each opsin in the genome annotated. It also contains code and data required to reproduce plots from Figure 1, including species tree used and opsin copy number per species.
