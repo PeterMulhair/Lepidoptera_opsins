@@ -1,10 +1,9 @@
 # Lepidoptera opsin evolution
-This repository contains the datasets and scripts needed to reproduce the results in X
+This repository contains the datasets and scripts needed to reproduce the results in [Opsin gene duplication in Lepidoptera: retrotransposition, sex linkage, and gene expression](https://www.biorxiv.org/content/10.1101/2023.08.16.552946v1)
 
 Each folder contains data and code required to recreate results and figures in each section of the manuscript.
 
-If you use any code or data from this repository please cite:
-X
+If you use any code or data from this repository please cite: [Mulhair et al. 2023](https://www.biorxiv.org/content/10.1101/2023.08.16.552946v1)
 
 If you have any questions about any of the code or data please get in touch at peter.mulhair[at]biology.ox.ac.uk
 
