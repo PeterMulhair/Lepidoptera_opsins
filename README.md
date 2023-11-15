@@ -1,9 +1,9 @@
 # Lepidoptera opsin evolution
-This repository contains the datasets and scripts needed to reproduce the results in [Opsin gene duplication in Lepidoptera: retrotransposition, sex linkage, and gene expression](https://www.biorxiv.org/content/10.1101/2023.08.16.552946v1)
+This repository contains the datasets and scripts needed to reproduce the results in [Opsin gene duplication in Lepidoptera: retrotransposition, sex linkage, and gene expression](https://academic.oup.com/mbe/article/40/11/msad241/7341929)
 
 Each folder contains data and code required to recreate results and figures in each section of the manuscript.
 
-If you use any code or data from this repository please cite: [Mulhair et al. 2023](https://www.biorxiv.org/content/10.1101/2023.08.16.552946v1)
+If you use any code or data from this repository please cite: [Mulhair et al. 2023](https://academic.oup.com/mbe/article/40/11/msad241/7341929)
 
 If you have any questions about any of the code or data please get in touch at peter.mulhair[at]biology.ox.ac.uk
 
@@ -23,6 +23,6 @@ Genomes used in this analysis from the [Darwin Tree of Life project](https://www
 
 <div align="center">
 <p align="center">
-<img src="https://github.com/PeterMulhair/Lepidoptera_opsins/blob/main/00_all_opsins/lep_species_tree.png" width="600" height="540">
+<img src="https://github.com/PeterMulhair/Lepidoptera_opsins/blob/main/opsin_logo.png" width="450" height="540">
 </p>
 </div>
